@@ -18,10 +18,10 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -42,6 +42,30 @@
 *   [ASL](#asl)
 *   [C++](#c-2)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) -
+
+*   [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
+
+*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
+
+*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
+
+*   [haohaoh4/078-Vue-resumeVue](https://github.com/haohaoh4/078-Vue-resumeVue) - 个人简历模板vue版本，本人为Java后端开发工程师、全栈工程师，欢迎HR来撩，也欢迎小伙伴start本项目~~~~
+
+*   [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) -
 
 ## C\#
 
@@ -101,28 +125,6 @@
 
 *   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
 
-## miscellaneous
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [bpc-clone/bypass-paywalls-chrome-clean](https://github.com/bpc-clone/bypass-paywalls-chrome-clean) -
-
-*   [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [haohaoh4/078-Vue-resumeVue](https://github.com/haohaoh4/078-Vue-resumeVue) - 个人简历模板vue版本，本人为Java后端开发工程师、全栈工程师，欢迎HR来撩，也欢迎小伙伴start本项目~~~~
-
-*   [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) -
-
 ## JavaScript
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -160,8 +162,6 @@
 *   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) -
 
 *   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
-
-*   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 
 ## Python
 
