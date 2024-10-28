@@ -18,13 +18,14 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [SCSS](#scss)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
-*   [Python](#python)
 *   [Ruby](#ruby)
 *   [Java](#java)
 *   [Go](#go)
@@ -42,6 +43,52 @@
 *   [ASL](#asl)
 *   [C++](#c-2)
 *   [Thanks](#thanks)
+
+## Python
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+
+*   [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
+
+*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+
+*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+
+*   [yixiu001/serv00-login](https://github.com/yixiu001/serv00-login) - 同时支持serv00与ct8自动化批量保号，每3天自动登录一次面板，并且发送消息到Telegram
+
+*   [malinkang/toggl2notion](https://github.com/malinkang/toggl2notion) -
+
+*   [malinkang/weread2notion-pro](https://github.com/malinkang/weread2notion-pro) -
+
+*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
+
+*   [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
+
+*   [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
+
+*   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular\_flag\_on\_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
+
+*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
+
+*   [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
+
+*   [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
+
+*   [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
+
+*   [ehForwarderBot/efb-wechat-slave](https://github.com/ehForwarderBot/efb-wechat-slave) - A channel for EH Forwarder Bot.
+
+*   [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+
+*   [marcusvolz/strava\_py](https://github.com/marcusvolz/strava_py) - Create artistic visualisations with your exercise data (Python version)
+
+*   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
+
+## SCSS
+
+*   [vinceliuice/WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS like theme for all gtk based desktops
 
 ## miscellaneous
 
@@ -64,8 +111,6 @@
 *   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
 
 *   [haohaoh4/078-Vue-resumeVue](https://github.com/haohaoh4/078-Vue-resumeVue) - 个人简历模板vue版本，本人为Java后端开发工程师、全栈工程师，欢迎HR来撩，也欢迎小伙伴start本项目~~~~
-
-*   [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) -
 
 ## C\#
 
@@ -149,8 +194,6 @@
 
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 
-*   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
-
 ## Shell
 
 *   [morytyann/OpenWrt-mihomo](https://github.com/morytyann/OpenWrt-mihomo) - Transparent Proxy with Mihomo on OpenWrt.
@@ -162,46 +205,6 @@
 *   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
 
 *   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
-
-## Python
-
-*   [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-
-*   [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
-
-*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
-
-*   [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
-
-*   [yixiu001/serv00-login](https://github.com/yixiu001/serv00-login) - 同时支持serv00与ct8自动化批量保号，每3天自动登录一次面板，并且发送消息到Telegram
-
-*   [malinkang/toggl2notion](https://github.com/malinkang/toggl2notion) -
-
-*   [malinkang/weread2notion-pro](https://github.com/malinkang/weread2notion-pro) -
-
-*   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
-
-*   [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
-
-*   [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
-
-*   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular\_flag\_on\_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
-
-*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-
-*   [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
-
-*   [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
-
-*   [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza) - Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages
-
-*   [ehForwarderBot/efb-wechat-slave](https://github.com/ehForwarderBot/efb-wechat-slave) - A channel for EH Forwarder Bot.
-
-*   [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
-
-*   [marcusvolz/strava\_py](https://github.com/marcusvolz/strava_py) - Create artistic visualisations with your exercise data (Python version)
-
-*   [apprenticeharper/DeDRM\_tools](https://github.com/apprenticeharper/DeDRM_tools) - DeDRM tools for ebooks
 
 ## Ruby
 
