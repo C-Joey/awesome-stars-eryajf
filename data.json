@@ -8,7 +8,7 @@
       "owner": {
         "login": "C-Joey",
         "id": 48274987,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/48274987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzQ4Mjc0OTg3In0.yY1HDA7rkRTDpyzQKyvgbXrb2GUdOlA6brgODpSRnK4&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48274987?v=4",
         "url": "https://api.github.com/users/C-Joey",
         "html_url": "https://github.com/C-Joey"
       },
@@ -17,7 +17,7 @@
       "url": "https://api.github.com/repos/C-Joey/awesome-stars-eryajf",
       "languages_url": "https://api.github.com/repos/C-Joey/awesome-stars-eryajf/languages",
       "created_at": "2024-09-28T17:43:31Z",
-      "updated_at": "2024-12-19T01:02:02Z",
+      "updated_at": "2024-12-20T00:58:53Z",
       "git_url": "git://github.com/C-Joey/awesome-stars-eryajf.git",
       "ssh_url": "git@github.com:C-Joey/awesome-stars-eryajf.git",
       "clone_url": "https://github.com/C-Joey/awesome-stars-eryajf.git",
@@ -35,7 +35,7 @@
       "owner": {
         "login": "zgimszhd61",
         "id": 114722053,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/114722053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzExNDcyMjA1MyJ9.GDpvLgPRtlZcq119E7TqRGEnCzYMG7kc_re9WVOtSPQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/114722053?v=4",
         "url": "https://api.github.com/users/zgimszhd61",
         "html_url": "https://github.com/zgimszhd61"
       },
@@ -68,7 +68,7 @@
       "owner": {
         "login": "Loyalsoldier",
         "id": 10487845,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/10487845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91LzEwNDg3ODQ1In0.J6CIXWVQJqT7bSWnYe-mTO77aA2ofEPL2sQvpHvovYU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10487845?v=4",
         "url": "https://api.github.com/users/Loyalsoldier",
         "html_url": "https://github.com/Loyalsoldier"
       },
@@ -77,13 +77,13 @@
       "url": "https://api.github.com/repos/Loyalsoldier/clash-rules",
       "languages_url": "https://api.github.com/repos/Loyalsoldier/clash-rules/languages",
       "created_at": "2020-07-30T23:53:49Z",
-      "updated_at": "2024-12-19T16:00:46Z",
+      "updated_at": "2024-12-20T15:33:13Z",
       "git_url": "git://github.com/Loyalsoldier/clash-rules.git",
       "ssh_url": "git@github.com:Loyalsoldier/clash-rules.git",
       "clone_url": "https://github.com/Loyalsoldier/clash-rules.git",
       "homepage": "",
-      "stargazers_count": 19590,
-      "watchers_count": 19590,
+      "stargazers_count": 19601,
+      "watchers_count": 19601,
       "language": null,
       "topics": [
         "adblock",
@@ -113,7 +113,7 @@
       "owner": {
         "login": "zhuima",
         "id": 5243524,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/5243524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzUyNDM1MjQifQ.WyjdBTu8jJznqZnL9GS9mkRTqgMm5gTSru8rLPjHM3o&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/5243524?v=4",
         "url": "https://api.github.com/users/zhuima",
         "html_url": "https://github.com/zhuima"
       },
@@ -122,13 +122,13 @@
       "url": "https://api.github.com/repos/zhuima/awesome-cloudflare",
       "languages_url": "https://api.github.com/repos/zhuima/awesome-cloudflare/languages",
       "created_at": "2024-04-07T02:19:38Z",
-      "updated_at": "2024-12-20T00:54:49Z",
+      "updated_at": "2024-12-20T23:49:38Z",
       "git_url": "git://github.com/zhuima/awesome-cloudflare.git",
       "ssh_url": "git@github.com:zhuima/awesome-cloudflare.git",
       "clone_url": "https://github.com/zhuima/awesome-cloudflare.git",
       "homepage": "",
-      "stargazers_count": 9167,
-      "watchers_count": 9167,
+      "stargazers_count": 9253,
+      "watchers_count": 9253,
       "language": null,
       "topics": []
     },
@@ -140,7 +140,7 @@
       "owner": {
         "login": "bpc-clone",
         "id": 166943580,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/166943580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91LzE2Njk0MzU4MCJ9.oCTvO7LQA-Dj3rYeFd8KQW5WWZ_VPek5VeFVnQpEIIE&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/166943580?v=4",
         "url": "https://api.github.com/users/bpc-clone",
         "html_url": "https://github.com/bpc-clone"
       },
@@ -149,7 +149,7 @@
       "url": "https://api.github.com/repos/bpc-clone/bpc_chrome_support",
       "languages_url": "https://api.github.com/repos/bpc-clone/bpc_chrome_support/languages",
       "created_at": "2024-04-21T13:03:42Z",
-      "updated_at": "2024-12-18T07:50:17Z",
+      "updated_at": "2024-12-20T17:43:29Z",
       "git_url": "git://github.com/bpc-clone/bpc_chrome_support.git",
       "ssh_url": "git@github.com:bpc-clone/bpc_chrome_support.git",
       "clone_url": "https://github.com/bpc-clone/bpc_chrome_support.git",
@@ -167,7 +167,7 @@
       "owner": {
         "login": "afshinea",
         "id": 26204670,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/26204670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzI2MjA0NjcwIn0.Z6rFpkopI7n25-znlRKLz7SqbIzQ_Lu_dmI87WZHnhE&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26204670?v=4",
         "url": "https://api.github.com/users/afshinea",
         "html_url": "https://github.com/afshinea"
       },
@@ -176,13 +176,13 @@
       "url": "https://api.github.com/repos/afshinea/stanford-cs-229-machine-learning",
       "languages_url": "https://api.github.com/repos/afshinea/stanford-cs-229-machine-learning/languages",
       "created_at": "2018-08-04T23:01:00Z",
-      "updated_at": "2024-12-19T10:55:20Z",
+      "updated_at": "2024-12-20T22:43:15Z",
       "git_url": "git://github.com/afshinea/stanford-cs-229-machine-learning.git",
       "ssh_url": "git@github.com:afshinea/stanford-cs-229-machine-learning.git",
       "clone_url": "https://github.com/afshinea/stanford-cs-229-machine-learning.git",
       "homepage": "https://stanford.edu/~shervine/teaching/cs-229",
-      "stargazers_count": 17751,
-      "watchers_count": 17751,
+      "stargazers_count": 17756,
+      "watchers_count": 17756,
       "language": null,
       "topics": [
         "cheatsheet",
@@ -203,7 +203,7 @@
       "owner": {
         "login": "xlucn",
         "id": 12032219,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/12032219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzEyMDMyMjE5In0._xXBr1hx7vqmDvBcRAcMZv1Eb6NyFf2ZeQ1BdrMPOhA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12032219?v=4",
         "url": "https://api.github.com/users/xlucn",
         "html_url": "https://github.com/xlucn"
       },
@@ -212,13 +212,13 @@
       "url": "https://api.github.com/repos/xlucn/oh-my-foss-android",
       "languages_url": "https://api.github.com/repos/xlucn/oh-my-foss-android/languages",
       "created_at": "2021-11-01T08:58:59Z",
-      "updated_at": "2024-12-19T20:23:28Z",
+      "updated_at": "2024-12-20T12:47:37Z",
       "git_url": "git://github.com/xlucn/oh-my-foss-android.git",
       "ssh_url": "git@github.com:xlucn/oh-my-foss-android.git",
       "clone_url": "https://github.com/xlucn/oh-my-foss-android.git",
       "homepage": "",
-      "stargazers_count": 3333,
-      "watchers_count": 3333,
+      "stargazers_count": 3334,
+      "watchers_count": 3334,
       "language": null,
       "topics": [
         "android",
@@ -238,7 +238,7 @@
       "owner": {
         "login": "Snoopy1866",
         "id": 45487685,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/45487685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzQ1NDg3Njg1In0.Bo7T9Wx2FX0pTiZBIwAKKo6vPMfU_shMDuCaA-7Fqtw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/45487685?v=4",
         "url": "https://api.github.com/users/Snoopy1866",
         "html_url": "https://github.com/Snoopy1866"
       },
@@ -247,13 +247,13 @@
       "url": "https://api.github.com/repos/Snoopy1866/LiTiaotiao-Custom-Rules",
       "languages_url": "https://api.github.com/repos/Snoopy1866/LiTiaotiao-Custom-Rules/languages",
       "created_at": "2023-06-12T12:58:52Z",
-      "updated_at": "2024-12-19T06:39:53Z",
+      "updated_at": "2024-12-21T00:48:31Z",
       "git_url": "git://github.com/Snoopy1866/LiTiaotiao-Custom-Rules.git",
       "ssh_url": "git@github.com:Snoopy1866/LiTiaotiao-Custom-Rules.git",
       "clone_url": "https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules.git",
       "homepage": "",
-      "stargazers_count": 10382,
-      "watchers_count": 10382,
+      "stargazers_count": 10375,
+      "watchers_count": 10375,
       "language": null,
       "topics": []
     },
@@ -265,7 +265,7 @@
       "owner": {
         "login": "674316",
         "id": 24378150,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/24378150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3NjAsIm5iZiI6MTczNDY1NTU2MCwicGF0aCI6Ii91LzI0Mzc4MTUwIn0.xUVkk11h40Uv_19Dk3vaUsj6_oeMNJgvHBBCSsvswgw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24378150?v=4",
         "url": "https://api.github.com/users/674316",
         "html_url": "https://github.com/674316"
       },
@@ -292,7 +292,7 @@
       "owner": {
         "login": "privacy-protection-tools",
         "id": 58900766,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/58900766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzU4OTAwNzY2In0.E1zpaI-VE63evaESVFQbp2SNv9K0wQB8X7rRwHWmrJU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58900766?v=4",
         "url": "https://api.github.com/users/privacy-protection-tools",
         "html_url": "https://github.com/privacy-protection-tools"
       },
@@ -301,13 +301,13 @@
       "url": "https://api.github.com/repos/privacy-protection-tools/anti-AD",
       "languages_url": "https://api.github.com/repos/privacy-protection-tools/anti-AD/languages",
       "created_at": "2015-10-22T08:59:28Z",
-      "updated_at": "2024-12-19T18:41:39Z",
+      "updated_at": "2024-12-20T12:13:00Z",
       "git_url": "git://github.com/privacy-protection-tools/anti-AD.git",
       "ssh_url": "git@github.com:privacy-protection-tools/anti-AD.git",
       "clone_url": "https://github.com/privacy-protection-tools/anti-AD.git",
       "homepage": "https://anti-ad.net",
-      "stargazers_count": 8676,
-      "watchers_count": 8676,
+      "stargazers_count": 8680,
+      "watchers_count": 8680,
       "language": null,
       "topics": [
         "adblock",
@@ -328,7 +328,7 @@
       "owner": {
         "login": "AUK9527",
         "id": 92515984,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/92515984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzkyNTE1OTg0In0.GbaiquNyslb5YEvRi_lgQnATJK_WXSpG5cNDmFf09FY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/92515984?v=4",
         "url": "https://api.github.com/users/AUK9527",
         "html_url": "https://github.com/AUK9527"
       },
@@ -337,13 +337,13 @@
       "url": "https://api.github.com/repos/AUK9527/Are-u-ok",
       "languages_url": "https://api.github.com/repos/AUK9527/Are-u-ok/languages",
       "created_at": "2021-12-10T07:57:34Z",
-      "updated_at": "2024-12-19T18:24:58Z",
+      "updated_at": "2024-12-20T17:43:00Z",
       "git_url": "git://github.com/AUK9527/Are-u-ok.git",
       "ssh_url": "git@github.com:AUK9527/Are-u-ok.git",
       "clone_url": "https://github.com/AUK9527/Are-u-ok.git",
       "homepage": null,
-      "stargazers_count": 9630,
-      "watchers_count": 9630,
+      "stargazers_count": 9646,
+      "watchers_count": 9646,
       "language": null,
       "topics": []
     },
@@ -355,7 +355,7 @@
       "owner": {
         "login": "haohaoh4",
         "id": 25719319,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/25719319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzI1NzE5MzE5In0.okJpp8dzJHhrwC1__8BtlrbR0pmc3BMCMQsBgRs5hHU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/25719319?v=4",
         "url": "https://api.github.com/users/haohaoh4",
         "html_url": "https://github.com/haohaoh4"
       },
@@ -384,7 +384,7 @@
       "owner": {
         "login": "521xueweihan",
         "id": 8255800,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8255800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzgyNTU4MDAifQ.0U713iKXfvmyaTdD5Nruo3tF1HcgJBt4K8jE6Fj6MxQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8255800?v=4",
         "url": "https://api.github.com/users/521xueweihan",
         "html_url": "https://github.com/521xueweihan"
       },
@@ -393,13 +393,13 @@
       "url": "https://api.github.com/repos/521xueweihan/GitHub520",
       "languages_url": "https://api.github.com/repos/521xueweihan/GitHub520/languages",
       "created_at": "2020-05-13T07:25:21Z",
-      "updated_at": "2024-12-20T00:53:47Z",
+      "updated_at": "2024-12-21T00:24:35Z",
       "git_url": "git://github.com/521xueweihan/GitHub520.git",
       "ssh_url": "git@github.com:521xueweihan/GitHub520.git",
       "clone_url": "https://github.com/521xueweihan/GitHub520.git",
       "homepage": "",
-      "stargazers_count": 23863,
-      "watchers_count": 23863,
+      "stargazers_count": 23882,
+      "watchers_count": 23882,
       "language": "Python",
       "topics": [
         "dns",
@@ -415,7 +415,7 @@
       "owner": {
         "login": "hiroi-sora",
         "id": 56373419,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/56373419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY5NDAsIm5iZiI6MTczNDY1NTc0MCwicGF0aCI6Ii91LzU2MzczNDE5In0.i2JFpt5N1zSR8ZU97aICGcfwkKWwi0xMEHaqRa7PkmI&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/56373419?v=4",
         "url": "https://api.github.com/users/hiroi-sora",
         "html_url": "https://github.com/hiroi-sora"
       },
@@ -424,13 +424,13 @@
       "url": "https://api.github.com/repos/hiroi-sora/Umi-OCR",
       "languages_url": "https://api.github.com/repos/hiroi-sora/Umi-OCR/languages",
       "created_at": "2022-03-28T04:01:46Z",
-      "updated_at": "2024-12-20T00:34:14Z",
+      "updated_at": "2024-12-20T21:55:10Z",
       "git_url": "git://github.com/hiroi-sora/Umi-OCR.git",
       "ssh_url": "git@github.com:hiroi-sora/Umi-OCR.git",
       "clone_url": "https://github.com/hiroi-sora/Umi-OCR.git",
       "homepage": "",
-      "stargazers_count": 28046,
-      "watchers_count": 28046,
+      "stargazers_count": 28065,
+      "watchers_count": 28065,
       "language": "Python",
       "topics": [
         "ocr",
@@ -450,7 +450,7 @@
       "owner": {
         "login": "JoeanAmier",
         "id": 49263334,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/49263334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzQ5MjYzMzM0In0.yQB0Vx_wa-b0_AT0Er2hnrDp9XxDkERJVLrx8byt0fA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49263334?v=4",
         "url": "https://api.github.com/users/JoeanAmier",
         "html_url": "https://github.com/JoeanAmier"
       },
@@ -459,13 +459,13 @@
       "url": "https://api.github.com/repos/JoeanAmier/XHS-Downloader",
       "languages_url": "https://api.github.com/repos/JoeanAmier/XHS-Downloader/languages",
       "created_at": "2023-08-16T11:03:36Z",
-      "updated_at": "2024-12-20T00:26:31Z",
+      "updated_at": "2024-12-20T22:46:13Z",
       "git_url": "git://github.com/JoeanAmier/XHS-Downloader.git",
       "ssh_url": "git@github.com:JoeanAmier/XHS-Downloader.git",
       "clone_url": "https://github.com/JoeanAmier/XHS-Downloader.git",
       "homepage": "",
-      "stargazers_count": 5883,
-      "watchers_count": 5883,
+      "stargazers_count": 5892,
+      "watchers_count": 5892,
       "language": "Python",
       "topics": [
         "aiohttp",
@@ -493,7 +493,7 @@
       "owner": {
         "login": "marimo-team",
         "id": 98563464,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/98563464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91Lzk4NTYzNDY0In0.kyor357YTYkyYXPq44ecFaV1reMzq2-3kzxYrEQEdN4&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/98563464?v=4",
         "url": "https://api.github.com/users/marimo-team",
         "html_url": "https://github.com/marimo-team"
       },
@@ -502,13 +502,13 @@
       "url": "https://api.github.com/repos/marimo-team/marimo",
       "languages_url": "https://api.github.com/repos/marimo-team/marimo/languages",
       "created_at": "2023-08-14T18:56:20Z",
-      "updated_at": "2024-12-20T00:06:25Z",
+      "updated_at": "2024-12-20T23:59:58Z",
       "git_url": "git://github.com/marimo-team/marimo.git",
       "ssh_url": "git@github.com:marimo-team/marimo.git",
       "clone_url": "https://github.com/marimo-team/marimo.git",
       "homepage": "https://marimo.io",
-      "stargazers_count": 8549,
-      "watchers_count": 8549,
+      "stargazers_count": 8566,
+      "watchers_count": 8566,
       "language": "Python",
       "topics": [
         "artificial-intelligence",
@@ -533,7 +533,7 @@
       "owner": {
         "login": "yixiu001",
         "id": 48150701,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/48150701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzQ4MTUwNzAxIn0.q_no7F5J5CH4id8zKVJrGU_PepadIgxr5BK4CVweDWM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/48150701?v=4",
         "url": "https://api.github.com/users/yixiu001",
         "html_url": "https://github.com/yixiu001"
       },
@@ -542,13 +542,13 @@
       "url": "https://api.github.com/repos/yixiu001/serv00-login",
       "languages_url": "https://api.github.com/repos/yixiu001/serv00-login/languages",
       "created_at": "2024-07-03T15:52:04Z",
-      "updated_at": "2024-12-19T14:03:04Z",
+      "updated_at": "2024-12-20T07:23:14Z",
       "git_url": "git://github.com/yixiu001/serv00-login.git",
       "ssh_url": "git@github.com:yixiu001/serv00-login.git",
       "clone_url": "https://github.com/yixiu001/serv00-login.git",
       "homepage": "",
-      "stargazers_count": 1694,
-      "watchers_count": 1694,
+      "stargazers_count": 1696,
+      "watchers_count": 1696,
       "language": "Python",
       "topics": []
     },
@@ -560,7 +560,7 @@
       "owner": {
         "login": "malinkang",
         "id": 3365208,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/3365208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzMzNjUyMDgifQ.HCACPN5AhOuejZE_Gfq43oCo8AaUGT3NKFtyjgZiQDs&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3365208?v=4",
         "url": "https://api.github.com/users/malinkang",
         "html_url": "https://github.com/malinkang"
       },
@@ -569,7 +569,7 @@
       "url": "https://api.github.com/repos/malinkang/toggl2notion",
       "languages_url": "https://api.github.com/repos/malinkang/toggl2notion/languages",
       "created_at": "2024-03-18T02:36:57Z",
-      "updated_at": "2024-12-19T01:13:13Z",
+      "updated_at": "2024-12-20T01:09:36Z",
       "git_url": "git://github.com/malinkang/toggl2notion.git",
       "ssh_url": "git@github.com:malinkang/toggl2notion.git",
       "clone_url": "https://github.com/malinkang/toggl2notion.git",
@@ -587,7 +587,7 @@
       "owner": {
         "login": "malinkang",
         "id": 3365208,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/3365208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzMzNjUyMDgifQ.HCACPN5AhOuejZE_Gfq43oCo8AaUGT3NKFtyjgZiQDs&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3365208?v=4",
         "url": "https://api.github.com/users/malinkang",
         "html_url": "https://github.com/malinkang"
       },
@@ -596,13 +596,13 @@
       "url": "https://api.github.com/repos/malinkang/weread2notion-pro",
       "languages_url": "https://api.github.com/repos/malinkang/weread2notion-pro/languages",
       "created_at": "2024-01-03T07:40:50Z",
-      "updated_at": "2024-12-19T21:18:53Z",
+      "updated_at": "2024-12-20T21:18:20Z",
       "git_url": "git://github.com/malinkang/weread2notion-pro.git",
       "ssh_url": "git@github.com:malinkang/weread2notion-pro.git",
       "clone_url": "https://github.com/malinkang/weread2notion-pro.git",
       "homepage": null,
-      "stargazers_count": 2532,
-      "watchers_count": 2532,
+      "stargazers_count": 2538,
+      "watchers_count": 2538,
       "language": "Python",
       "topics": []
     },
@@ -614,7 +614,7 @@
       "owner": {
         "login": "vvbbnn00",
         "id": 46409975,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/46409975?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91LzQ2NDA5OTc1In0.MnULNXrmDyo8HDg3rg27GBQyl7uFinKts1NgCyvEo0w&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/46409975?v=4",
         "url": "https://api.github.com/users/vvbbnn00",
         "html_url": "https://github.com/vvbbnn00"
       },
@@ -623,13 +623,13 @@
       "url": "https://api.github.com/repos/vvbbnn00/WARP-Clash-API",
       "languages_url": "https://api.github.com/repos/vvbbnn00/WARP-Clash-API/languages",
       "created_at": "2023-08-23T19:19:40Z",
-      "updated_at": "2024-12-19T16:11:16Z",
+      "updated_at": "2024-12-20T06:12:03Z",
       "git_url": "git://github.com/vvbbnn00/WARP-Clash-API.git",
       "ssh_url": "git@github.com:vvbbnn00/WARP-Clash-API.git",
       "clone_url": "https://github.com/vvbbnn00/WARP-Clash-API.git",
       "homepage": "",
-      "stargazers_count": 8565,
-      "watchers_count": 8565,
+      "stargazers_count": 8564,
+      "watchers_count": 8564,
       "language": "Python",
       "topics": [
         "clash",
@@ -650,7 +650,7 @@
       "owner": {
         "login": "CosmosShadow",
         "id": 13933465,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/13933465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzEzOTMzNDY1In0.FWtlWqPgDNwup3dNB9G_2Oq2iswojMnPyIl8udXqNgw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13933465?v=4",
         "url": "https://api.github.com/users/CosmosShadow",
         "html_url": "https://github.com/CosmosShadow"
       },
@@ -659,13 +659,13 @@
       "url": "https://api.github.com/repos/CosmosShadow/gptpdf",
       "languages_url": "https://api.github.com/repos/CosmosShadow/gptpdf/languages",
       "created_at": "2024-06-28T03:37:36Z",
-      "updated_at": "2024-12-19T11:37:58Z",
+      "updated_at": "2024-12-20T03:41:57Z",
       "git_url": "git://github.com/CosmosShadow/gptpdf.git",
       "ssh_url": "git@github.com:CosmosShadow/gptpdf.git",
       "clone_url": "https://github.com/CosmosShadow/gptpdf.git",
       "homepage": null,
-      "stargazers_count": 3117,
-      "watchers_count": 3117,
+      "stargazers_count": 3118,
+      "watchers_count": 3118,
       "language": "Python",
       "topics": []
     },
@@ -677,7 +677,7 @@
       "owner": {
         "login": "barry-far",
         "id": 143993892,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/143993892?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91LzE0Mzk5Mzg5MiJ9.SvJXF_DaJGqffPRsS6hYh5TiGykCchzwJ9TAh8ONU6c&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/143993892?v=4",
         "url": "https://api.github.com/users/barry-far",
         "html_url": "https://github.com/barry-far"
       },
@@ -686,13 +686,13 @@
       "url": "https://api.github.com/repos/barry-far/V2ray-Configs",
       "languages_url": "https://api.github.com/repos/barry-far/V2ray-Configs/languages",
       "created_at": "2023-09-17T09:39:01Z",
-      "updated_at": "2024-12-19T23:56:55Z",
+      "updated_at": "2024-12-21T00:48:10Z",
       "git_url": "git://github.com/barry-far/V2ray-Configs.git",
       "ssh_url": "git@github.com:barry-far/V2ray-Configs.git",
       "clone_url": "https://github.com/barry-far/V2ray-Configs.git",
       "homepage": "",
-      "stargazers_count": 4980,
-      "watchers_count": 4980,
+      "stargazers_count": 4989,
+      "watchers_count": 4989,
       "language": "Python",
       "topics": [
         "gfw",
@@ -723,7 +723,7 @@
       "owner": {
         "login": "NewFuture",
         "id": 6290356,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/6290356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzYyOTAzNTYifQ.PVFrT77cZ3h4UAqJSz3DPRhyfds-jOJsbD4FLw0Y1Jw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/6290356?v=4",
         "url": "https://api.github.com/users/NewFuture",
         "html_url": "https://github.com/NewFuture"
       },
@@ -732,13 +732,13 @@
       "url": "https://api.github.com/repos/NewFuture/DDNS",
       "languages_url": "https://api.github.com/repos/NewFuture/DDNS/languages",
       "created_at": "2016-06-10T11:51:51Z",
-      "updated_at": "2024-12-19T17:36:51Z",
+      "updated_at": "2024-12-20T09:46:50Z",
       "git_url": "git://github.com/NewFuture/DDNS.git",
       "ssh_url": "git@github.com:NewFuture/DDNS.git",
       "clone_url": "https://github.com/NewFuture/DDNS.git",
       "homepage": "https://ddns.newfuture.cc/",
-      "stargazers_count": 4394,
-      "watchers_count": 4394,
+      "stargazers_count": 4397,
+      "watchers_count": 4397,
       "language": "Python",
       "topics": [
         "alidns",
@@ -759,7 +759,7 @@
       "owner": {
         "login": "tatsu-lab",
         "id": 61893194,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/61893194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzYxODkzMTk0In0.fBmzHHei_8zG3Z1NTQO8n7ZyTxmEwYt2N6h__ZvT28Q&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61893194?v=4",
         "url": "https://api.github.com/users/tatsu-lab",
         "html_url": "https://github.com/tatsu-lab"
       },
@@ -768,13 +768,13 @@
       "url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca",
       "languages_url": "https://api.github.com/repos/tatsu-lab/stanford_alpaca/languages",
       "created_at": "2023-03-10T23:33:09Z",
-      "updated_at": "2024-12-19T18:48:16Z",
+      "updated_at": "2024-12-20T18:02:42Z",
       "git_url": "git://github.com/tatsu-lab/stanford_alpaca.git",
       "ssh_url": "git@github.com:tatsu-lab/stanford_alpaca.git",
       "clone_url": "https://github.com/tatsu-lab/stanford_alpaca.git",
       "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
-      "stargazers_count": 29670,
-      "watchers_count": 29670,
+      "stargazers_count": 29672,
+      "watchers_count": 29672,
       "language": "Python",
       "topics": [
         "deep-learning",
@@ -790,7 +790,7 @@
       "owner": {
         "login": "pythonstock",
         "id": 30223402,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/30223402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxMjAsIm5iZiI6MTczNDY1NTkyMCwicGF0aCI6Ii91LzMwMjIzNDAyIn0.jPv1SXYpohcVIBVkYebOup7uhIfpbLkASeECy7JSGWM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/30223402?v=4",
         "url": "https://api.github.com/users/pythonstock",
         "html_url": "https://github.com/pythonstock"
       },
@@ -799,13 +799,13 @@
       "url": "https://api.github.com/repos/pythonstock/stock",
       "languages_url": "https://api.github.com/repos/pythonstock/stock/languages",
       "created_at": "2017-07-17T03:24:03Z",
-      "updated_at": "2024-12-19T15:52:10Z",
+      "updated_at": "2024-12-20T08:34:33Z",
       "git_url": "git://github.com/pythonstock/stock.git",
       "ssh_url": "git@github.com:pythonstock/stock.git",
       "clone_url": "https://github.com/pythonstock/stock.git",
       "homepage": null,
-      "stargazers_count": 6730,
-      "watchers_count": 6730,
+      "stargazers_count": 6732,
+      "watchers_count": 6732,
       "language": "Python",
       "topics": []
     },
@@ -817,7 +817,7 @@
       "owner": {
         "login": "yihong0618",
         "id": 15976103,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/15976103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY5NDAsIm5iZiI6MTczNDY1NTc0MCwicGF0aCI6Ii91LzE1OTc2MTAzIn0.SnNHzLDW2Vtq8YSkQi11AXB_KqqHS2K8CqeUdIbbTPM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15976103?v=4",
         "url": "https://api.github.com/users/yihong0618",
         "html_url": "https://github.com/yihong0618"
       },
@@ -826,13 +826,13 @@
       "url": "https://api.github.com/repos/yihong0618/GitHubPoster",
       "languages_url": "https://api.github.com/repos/yihong0618/GitHubPoster/languages",
       "created_at": "2021-04-21T04:06:34Z",
-      "updated_at": "2024-12-20T00:16:23Z",
+      "updated_at": "2024-12-21T00:16:00Z",
       "git_url": "git://github.com/yihong0618/GitHubPoster.git",
       "ssh_url": "git@github.com:yihong0618/GitHubPoster.git",
       "clone_url": "https://github.com/yihong0618/GitHubPoster.git",
       "homepage": "",
-      "stargazers_count": 1789,
-      "watchers_count": 1789,
+      "stargazers_count": 1790,
+      "watchers_count": 1790,
       "language": "Python",
       "topics": [
         "bilibili",
@@ -860,7 +860,7 @@
       "owner": {
         "login": "stanfordnlp",
         "id": 3046006,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/3046006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91LzMwNDYwMDYifQ.-IaPJCP7-8hAi8ox-GrcLxYvKKDDGUaNE-xCudcuVRU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3046006?v=4",
         "url": "https://api.github.com/users/stanfordnlp",
         "html_url": "https://github.com/stanfordnlp"
       },
@@ -869,13 +869,13 @@
       "url": "https://api.github.com/repos/stanfordnlp/stanza",
       "languages_url": "https://api.github.com/repos/stanfordnlp/stanza/languages",
       "created_at": "2017-09-26T08:00:56Z",
-      "updated_at": "2024-12-18T16:16:05Z",
+      "updated_at": "2024-12-20T13:22:14Z",
       "git_url": "git://github.com/stanfordnlp/stanza.git",
       "ssh_url": "git@github.com:stanfordnlp/stanza.git",
       "clone_url": "https://github.com/stanfordnlp/stanza.git",
       "homepage": "https://stanfordnlp.github.io/stanza/",
-      "stargazers_count": 7317,
-      "watchers_count": 7317,
+      "stargazers_count": 7319,
+      "watchers_count": 7319,
       "language": "Python",
       "topics": [
         "artificial-intelligence",
@@ -898,7 +898,7 @@
       "owner": {
         "login": "ehForwarderBot",
         "id": 40080313,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/40080313?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzQwMDgwMzEzIn0.rtSi9nD8vjfBf2QiHryWgQ_9XiDKI8h6vP0hEg09PF4&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/40080313?v=4",
         "url": "https://api.github.com/users/ehForwarderBot",
         "html_url": "https://github.com/ehForwarderBot"
       },
@@ -928,7 +928,7 @@
       "owner": {
         "login": "n3d1117",
         "id": 11541888,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/11541888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91LzExNTQxODg4In0._YSSvuFeee55dp8J2FeVbMdpBtO9gbumECJZy5shQhU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/11541888?v=4",
         "url": "https://api.github.com/users/n3d1117",
         "html_url": "https://github.com/n3d1117"
       },
@@ -962,7 +962,7 @@
       "owner": {
         "login": "marcusvolz",
         "id": 12025275,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/12025275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzEyMDI1Mjc1In0.WBzcdl5lKuwnHdX95uXFGlHAGE-R11J7yocPmxdpb8I&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/12025275?v=4",
         "url": "https://api.github.com/users/marcusvolz",
         "html_url": "https://github.com/marcusvolz"
       },
@@ -971,13 +971,13 @@
       "url": "https://api.github.com/repos/marcusvolz/strava_py",
       "languages_url": "https://api.github.com/repos/marcusvolz/strava_py/languages",
       "created_at": "2022-02-05T03:39:21Z",
-      "updated_at": "2024-12-17T09:45:51Z",
+      "updated_at": "2024-12-20T21:57:09Z",
       "git_url": "git://github.com/marcusvolz/strava_py.git",
       "ssh_url": "git@github.com:marcusvolz/strava_py.git",
       "clone_url": "https://github.com/marcusvolz/strava_py.git",
       "homepage": null,
-      "stargazers_count": 173,
-      "watchers_count": 173,
+      "stargazers_count": 174,
+      "watchers_count": 174,
       "language": "Python",
       "topics": []
     },
@@ -989,7 +989,7 @@
       "owner": {
         "login": "apprenticeharper",
         "id": 10861683,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/10861683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzEwODYxNjgzIn0.510zsFzzjcoTQVz_Kd2gX7tRSsM4JHYtw_C1N2zcscI&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10861683?v=4",
         "url": "https://api.github.com/users/apprenticeharper",
         "html_url": "https://github.com/apprenticeharper"
       },
@@ -998,7 +998,7 @@
       "url": "https://api.github.com/repos/apprenticeharper/DeDRM_tools",
       "languages_url": "https://api.github.com/repos/apprenticeharper/DeDRM_tools/languages",
       "created_at": "2015-03-09T17:21:32Z",
-      "updated_at": "2024-12-19T20:30:25Z",
+      "updated_at": "2024-12-20T15:49:28Z",
       "git_url": "git://github.com/apprenticeharper/DeDRM_tools.git",
       "ssh_url": "git@github.com:apprenticeharper/DeDRM_tools.git",
       "clone_url": "https://github.com/apprenticeharper/DeDRM_tools.git",
@@ -1018,7 +1018,7 @@
       "owner": {
         "login": "vinceliuice",
         "id": 7604295,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/7604295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczMDAsIm5iZiI6MTczNDY1NjEwMCwicGF0aCI6Ii91Lzc2MDQyOTUifQ.Fl0kAeVbqog_NKd-gNuQkch3qpBKnEsjohPB5JmZ3Yg&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7604295?v=4",
         "url": "https://api.github.com/users/vinceliuice",
         "html_url": "https://github.com/vinceliuice"
       },
@@ -1027,13 +1027,13 @@
       "url": "https://api.github.com/repos/vinceliuice/WhiteSur-gtk-theme",
       "languages_url": "https://api.github.com/repos/vinceliuice/WhiteSur-gtk-theme/languages",
       "created_at": "2020-07-14T16:30:18Z",
-      "updated_at": "2024-12-19T21:41:02Z",
+      "updated_at": "2024-12-20T17:04:43Z",
       "git_url": "git://github.com/vinceliuice/WhiteSur-gtk-theme.git",
       "ssh_url": "git@github.com:vinceliuice/WhiteSur-gtk-theme.git",
       "clone_url": "https://github.com/vinceliuice/WhiteSur-gtk-theme.git",
       "homepage": "",
-      "stargazers_count": 6097,
-      "watchers_count": 6097,
+      "stargazers_count": 6101,
+      "watchers_count": 6101,
       "language": "SCSS",
       "topics": [
         "gnome",
@@ -1054,7 +1054,7 @@
       "owner": {
         "login": "hellzerg",
         "id": 3146835,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/3146835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzMxNDY4MzUifQ.HvfVy8OmPVCgd7YG4qIAUB-u4H5yVY-gv47GNQo9YrQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/3146835?v=4",
         "url": "https://api.github.com/users/hellzerg",
         "html_url": "https://github.com/hellzerg"
       },
@@ -1063,13 +1063,13 @@
       "url": "https://api.github.com/repos/hellzerg/optimizer",
       "languages_url": "https://api.github.com/repos/hellzerg/optimizer/languages",
       "created_at": "2017-09-13T07:49:36Z",
-      "updated_at": "2024-12-19T20:38:59Z",
+      "updated_at": "2024-12-20T20:40:56Z",
       "git_url": "git://github.com/hellzerg/optimizer.git",
       "ssh_url": "git@github.com:hellzerg/optimizer.git",
       "clone_url": "https://github.com/hellzerg/optimizer.git",
       "homepage": "",
-      "stargazers_count": 14978,
-      "watchers_count": 14978,
+      "stargazers_count": 14983,
+      "watchers_count": 14983,
       "language": "C#",
       "topics": [
         "cleanup",
@@ -1097,7 +1097,7 @@
       "owner": {
         "login": "BluePointLilac",
         "id": 55010935,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/55010935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91LzU1MDEwOTM1In0.ExD_TivgQpCO9Eg4m76wenFQ41k8_p5mUl6DospYw30&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/55010935?v=4",
         "url": "https://api.github.com/users/BluePointLilac",
         "html_url": "https://github.com/BluePointLilac"
       },
@@ -1106,13 +1106,13 @@
       "url": "https://api.github.com/repos/BluePointLilac/ContextMenuManager",
       "languages_url": "https://api.github.com/repos/BluePointLilac/ContextMenuManager/languages",
       "created_at": "2020-10-15T06:27:04Z",
-      "updated_at": "2024-12-19T12:35:10Z",
+      "updated_at": "2024-12-20T22:56:04Z",
       "git_url": "git://github.com/BluePointLilac/ContextMenuManager.git",
       "ssh_url": "git@github.com:BluePointLilac/ContextMenuManager.git",
       "clone_url": "https://github.com/BluePointLilac/ContextMenuManager.git",
       "homepage": "https://bluepointlilac.github.io/ContextMenuManager",
-      "stargazers_count": 13027,
-      "watchers_count": 13027,
+      "stargazers_count": 13031,
+      "watchers_count": 13031,
       "language": "C#",
       "topics": []
     },
@@ -1124,7 +1124,7 @@
       "owner": {
         "login": "wangfreexx",
         "id": 23137882,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/23137882?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzIzMTM3ODgyIn0.0wwXyvTwUimxxuKC5sidB0ivxw4j62fCCbhxCAuO288&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/23137882?v=4",
         "url": "https://api.github.com/users/wangfreexx",
         "html_url": "https://github.com/wangfreexx"
       },
@@ -1151,7 +1151,7 @@
       "owner": {
         "login": "studyzy",
         "id": 1635408,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/1635408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91LzE2MzU0MDgifQ.pIStkA_QgtcrWRkUjDkcBBW-Lq05EE9PVQ27-ivGNb8&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1635408?v=4",
         "url": "https://api.github.com/users/studyzy",
         "html_url": "https://github.com/studyzy"
       },
@@ -1160,13 +1160,13 @@
       "url": "https://api.github.com/repos/studyzy/imewlconverter",
       "languages_url": "https://api.github.com/repos/studyzy/imewlconverter/languages",
       "created_at": "2012-04-12T04:03:25Z",
-      "updated_at": "2024-12-19T11:48:39Z",
+      "updated_at": "2024-12-20T13:49:12Z",
       "git_url": "git://github.com/studyzy/imewlconverter.git",
       "ssh_url": "git@github.com:studyzy/imewlconverter.git",
       "clone_url": "https://github.com/studyzy/imewlconverter.git",
       "homepage": "",
-      "stargazers_count": 8061,
-      "watchers_count": 8061,
+      "stargazers_count": 8066,
+      "watchers_count": 8066,
       "language": "C#",
       "topics": [
         "c-sharp",
@@ -1187,7 +1187,7 @@
       "owner": {
         "login": "KoriIku",
         "id": 86508666,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/86508666?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxMjAsIm5iZiI6MTczNDY1NTkyMCwicGF0aCI6Ii91Lzg2NTA4NjY2In0.Uqt5-CvDwcVR-5mZjJGsNief3xyDB5G_4AUxmSbxkvY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/86508666?v=4",
         "url": "https://api.github.com/users/KoriIku",
         "html_url": "https://github.com/KoriIku"
       },
@@ -1196,13 +1196,13 @@
       "url": "https://api.github.com/repos/KoriIku/luxirty-search",
       "languages_url": "https://api.github.com/repos/KoriIku/luxirty-search/languages",
       "created_at": "2024-10-07T07:12:42Z",
-      "updated_at": "2024-12-20T00:48:06Z",
+      "updated_at": "2024-12-20T23:27:18Z",
       "git_url": "git://github.com/KoriIku/luxirty-search.git",
       "ssh_url": "git@github.com:KoriIku/luxirty-search.git",
       "clone_url": "https://github.com/KoriIku/luxirty-search.git",
       "homepage": "https://search.luxirty.com",
-      "stargazers_count": 1423,
-      "watchers_count": 1423,
+      "stargazers_count": 1425,
+      "watchers_count": 1425,
       "language": "CSS",
       "topics": []
     },
@@ -1214,7 +1214,7 @@
       "owner": {
         "login": "hehonghui",
         "id": 1683811,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/1683811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91LzE2ODM4MTEifQ.-p3ZOEyCbVXTXE2D-i3uwSWcILbd2BhIZ9VTm4Hp6WQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1683811?v=4",
         "url": "https://api.github.com/users/hehonghui",
         "html_url": "https://github.com/hehonghui"
       },
@@ -1223,13 +1223,13 @@
       "url": "https://api.github.com/repos/hehonghui/awesome-english-ebooks",
       "languages_url": "https://api.github.com/repos/hehonghui/awesome-english-ebooks/languages",
       "created_at": "2022-06-28T02:45:44Z",
-      "updated_at": "2024-12-19T21:33:16Z",
+      "updated_at": "2024-12-20T21:45:47Z",
       "git_url": "git://github.com/hehonghui/awesome-english-ebooks.git",
       "ssh_url": "git@github.com:hehonghui/awesome-english-ebooks.git",
       "clone_url": "https://github.com/hehonghui/awesome-english-ebooks.git",
       "homepage": "",
-      "stargazers_count": 22458,
-      "watchers_count": 22458,
+      "stargazers_count": 22464,
+      "watchers_count": 22464,
       "language": "CSS",
       "topics": [
         "download",
@@ -1248,7 +1248,7 @@
       "owner": {
         "login": "qq8e",
         "id": 78652492,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/78652492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY5NDAsIm5iZiI6MTczNDY1NTc0MCwicGF0aCI6Ii91Lzc4NjUyNDkyIn0.HeCCoiLOrq5jb7g6ETIOEGF0Z1DBUSmxaza0lMOtwLw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/78652492?v=4",
         "url": "https://api.github.com/users/qq8e",
         "html_url": "https://github.com/qq8e"
       },
@@ -1257,13 +1257,13 @@
       "url": "https://api.github.com/repos/qq8e/qq",
       "languages_url": "https://api.github.com/repos/qq8e/qq/languages",
       "created_at": "2021-02-06T15:14:24Z",
-      "updated_at": "2024-12-19T13:06:25Z",
+      "updated_at": "2024-12-20T03:08:22Z",
       "git_url": "git://github.com/qq8e/qq.git",
       "ssh_url": "git@github.com:qq8e/qq.git",
       "clone_url": "https://github.com/qq8e/qq.git",
       "homepage": "https://www.kjsv.com/",
-      "stargazers_count": 2533,
-      "watchers_count": 2533,
+      "stargazers_count": 2534,
+      "watchers_count": 2534,
       "language": "CSS",
       "topics": []
     }
@@ -1277,7 +1277,7 @@
       "owner": {
         "login": "DIYgod",
         "id": 8266075,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8266075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzgyNjYwNzUifQ.eHFkox1WW4Z2-eTQRJPbUQYsqyFil5ptXEHrnckhtMc&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8266075?v=4",
         "url": "https://api.github.com/users/DIYgod",
         "html_url": "https://github.com/DIYgod"
       },
@@ -1286,13 +1286,13 @@
       "url": "https://api.github.com/repos/DIYgod/RSSHub",
       "languages_url": "https://api.github.com/repos/DIYgod/RSSHub/languages",
       "created_at": "2018-04-02T14:43:21Z",
-      "updated_at": "2024-12-19T18:26:20Z",
+      "updated_at": "2024-12-20T23:35:46Z",
       "git_url": "git://github.com/DIYgod/RSSHub.git",
       "ssh_url": "git@github.com:DIYgod/RSSHub.git",
       "clone_url": "https://github.com/DIYgod/RSSHub.git",
       "homepage": "https://docs.rsshub.app",
-      "stargazers_count": 34378,
-      "watchers_count": 34378,
+      "stargazers_count": 34389,
+      "watchers_count": 34389,
       "language": "TypeScript",
       "topics": [
         "bilibili",
@@ -1323,7 +1323,7 @@
       "owner": {
         "login": "ccbikai",
         "id": 2959393,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/2959393?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzI5NTkzOTMifQ.ivoE8hlaL1v0xEMCniqUM68P86216eJnOzq9lBveTs0&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2959393?v=4",
         "url": "https://api.github.com/users/ccbikai",
         "html_url": "https://github.com/ccbikai"
       },
@@ -1356,7 +1356,7 @@
       "owner": {
         "login": "hanydd",
         "id": 31091101,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/31091101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzMxMDkxMTAxIn0.72whGh5KWYfSNbTgsRtvXvOUSZ9eMv0YiCpGYs5fZEA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31091101?v=4",
         "url": "https://api.github.com/users/hanydd",
         "html_url": "https://github.com/hanydd"
       },
@@ -1365,13 +1365,13 @@
       "url": "https://api.github.com/repos/hanydd/BilibiliSponsorBlock",
       "languages_url": "https://api.github.com/repos/hanydd/BilibiliSponsorBlock/languages",
       "created_at": "2024-01-17T17:02:40Z",
-      "updated_at": "2024-12-19T17:17:23Z",
+      "updated_at": "2024-12-20T13:05:54Z",
       "git_url": "git://github.com/hanydd/BilibiliSponsorBlock.git",
       "ssh_url": "git@github.com:hanydd/BilibiliSponsorBlock.git",
       "clone_url": "https://github.com/hanydd/BilibiliSponsorBlock.git",
       "homepage": "https://www.bsbsb.top",
-      "stargazers_count": 2347,
-      "watchers_count": 2347,
+      "stargazers_count": 2353,
+      "watchers_count": 2353,
       "language": "TypeScript",
       "topics": [
         "adblock",
@@ -1391,7 +1391,7 @@
       "owner": {
         "login": "markmap",
         "id": 111946737,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/111946737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzExMTk0NjczNyJ9.YzS1GpeiiCOy-OHIJRXf5RuFgYPFx09JUoGAVO8Ny20&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/111946737?v=4",
         "url": "https://api.github.com/users/markmap",
         "html_url": "https://github.com/markmap"
       },
@@ -1400,13 +1400,13 @@
       "url": "https://api.github.com/repos/markmap/markmap",
       "languages_url": "https://api.github.com/repos/markmap/markmap/languages",
       "created_at": "2020-01-13T10:23:34Z",
-      "updated_at": "2024-12-20T00:51:35Z",
+      "updated_at": "2024-12-20T20:59:33Z",
       "git_url": "git://github.com/markmap/markmap.git",
       "ssh_url": "git@github.com:markmap/markmap.git",
       "clone_url": "https://github.com/markmap/markmap.git",
       "homepage": "https://markmap.js.org/",
-      "stargazers_count": 9698,
-      "watchers_count": 9698,
+      "stargazers_count": 9715,
+      "watchers_count": 9715,
       "language": "TypeScript",
       "topics": [
         "markmap",
@@ -1421,7 +1421,7 @@
       "owner": {
         "login": "immich-app",
         "id": 109746326,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/109746326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzEwOTc0NjMyNiJ9.kO2YT_Dke17yDJj-dSL5a3yv-1QG50kHuR-WE5uq83I&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/109746326?v=4",
         "url": "https://api.github.com/users/immich-app",
         "html_url": "https://github.com/immich-app"
       },
@@ -1430,13 +1430,13 @@
       "url": "https://api.github.com/repos/immich-app/immich",
       "languages_url": "https://api.github.com/repos/immich-app/immich/languages",
       "created_at": "2022-02-03T15:56:27Z",
-      "updated_at": "2024-12-20T00:43:25Z",
+      "updated_at": "2024-12-21T00:40:38Z",
       "git_url": "git://github.com/immich-app/immich.git",
       "ssh_url": "git@github.com:immich-app/immich.git",
       "clone_url": "https://github.com/immich-app/immich.git",
       "homepage": "https://immich.app",
-      "stargazers_count": 54465,
-      "watchers_count": 54465,
+      "stargazers_count": 54554,
+      "watchers_count": 54554,
       "language": "TypeScript",
       "topics": [
         "backup-tool",
@@ -1466,7 +1466,7 @@
       "owner": {
         "login": "Bin-Huang",
         "id": 20723142,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/20723142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91LzIwNzIzMTQyIn0.4sxSttGzdEG31SwyXx66x46X2KuzDmQT9igLTGPf5ng&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/20723142?v=4",
         "url": "https://api.github.com/users/Bin-Huang",
         "html_url": "https://github.com/Bin-Huang"
       },
@@ -1475,13 +1475,13 @@
       "url": "https://api.github.com/repos/Bin-Huang/chatbox",
       "languages_url": "https://api.github.com/repos/Bin-Huang/chatbox/languages",
       "created_at": "2023-03-06T12:22:15Z",
-      "updated_at": "2024-12-20T00:11:44Z",
+      "updated_at": "2024-12-20T20:43:48Z",
       "git_url": "git://github.com/Bin-Huang/chatbox.git",
       "ssh_url": "git@github.com:Bin-Huang/chatbox.git",
       "clone_url": "https://github.com/Bin-Huang/chatbox.git",
       "homepage": "https://chatboxai.app",
-      "stargazers_count": 23925,
-      "watchers_count": 23925,
+      "stargazers_count": 23958,
+      "watchers_count": 23958,
       "language": "TypeScript",
       "topics": [
         "ai",
@@ -1508,7 +1508,7 @@
       "owner": {
         "login": "mihomo-party-org",
         "id": 181477152,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/181477152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzE4MTQ3NzE1MiJ9.kcUXqVVH-25rscqWHPlnRzSW6Byyc5YCP6r_FLyt4I0&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/181477152?v=4",
         "url": "https://api.github.com/users/mihomo-party-org",
         "html_url": "https://github.com/mihomo-party-org"
       },
@@ -1517,13 +1517,13 @@
       "url": "https://api.github.com/repos/mihomo-party-org/mihomo-party",
       "languages_url": "https://api.github.com/repos/mihomo-party-org/mihomo-party/languages",
       "created_at": "2024-08-02T00:38:23Z",
-      "updated_at": "2024-12-20T00:56:59Z",
+      "updated_at": "2024-12-20T17:38:06Z",
       "git_url": "git://github.com/mihomo-party-org/mihomo-party.git",
       "ssh_url": "git@github.com:mihomo-party-org/mihomo-party.git",
       "clone_url": "https://github.com/mihomo-party-org/mihomo-party.git",
       "homepage": "https://mihomo.party",
-      "stargazers_count": 7571,
-      "watchers_count": 7571,
+      "stargazers_count": 7590,
+      "watchers_count": 7590,
       "language": "TypeScript",
       "topics": [
         "clash",
@@ -1540,7 +1540,7 @@
       "owner": {
         "login": "kangfenmao",
         "id": 8253512,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8253512?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzgyNTM1MTIifQ.4loWbjFz2WbUXwhg_glrmovQ2-YrE1bzYk7j_I7RgmI&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8253512?v=4",
         "url": "https://api.github.com/users/kangfenmao",
         "html_url": "https://github.com/kangfenmao"
       },
@@ -1549,13 +1549,13 @@
       "url": "https://api.github.com/repos/kangfenmao/cherry-studio",
       "languages_url": "https://api.github.com/repos/kangfenmao/cherry-studio/languages",
       "created_at": "2024-05-24T01:56:26Z",
-      "updated_at": "2024-12-20T00:46:58Z",
+      "updated_at": "2024-12-20T21:17:35Z",
       "git_url": "git://github.com/kangfenmao/cherry-studio.git",
       "ssh_url": "git@github.com:kangfenmao/cherry-studio.git",
       "clone_url": "https://github.com/kangfenmao/cherry-studio.git",
       "homepage": "https://cherry-ai.com",
-      "stargazers_count": 1995,
-      "watchers_count": 1995,
+      "stargazers_count": 2007,
+      "watchers_count": 2007,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -1576,7 +1576,7 @@
       "owner": {
         "login": "ajnart",
         "id": 49837342,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/49837342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzQ5ODM3MzQyIn0.gnFQyB6gawGllHxnLFYUPNsHL499rCNaafOeH5ZSA1Y&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/49837342?v=4",
         "url": "https://api.github.com/users/ajnart",
         "html_url": "https://github.com/ajnart"
       },
@@ -1585,13 +1585,13 @@
       "url": "https://api.github.com/repos/ajnart/homarr",
       "languages_url": "https://api.github.com/repos/ajnart/homarr/languages",
       "created_at": "2022-04-24T20:36:46Z",
-      "updated_at": "2024-12-19T17:33:23Z",
+      "updated_at": "2024-12-20T13:22:19Z",
       "git_url": "git://github.com/ajnart/homarr.git",
       "ssh_url": "git@github.com:ajnart/homarr.git",
       "clone_url": "https://github.com/ajnart/homarr.git",
       "homepage": "https://homarr.dev",
-      "stargazers_count": 6425,
-      "watchers_count": 6425,
+      "stargazers_count": 6430,
+      "watchers_count": 6430,
       "language": "TypeScript",
       "topics": [
         "dashboard",
@@ -1613,7 +1613,7 @@
       "owner": {
         "login": "Crossbell-Box",
         "id": 103565959,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/103565959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzEwMzU2NTk1OSJ9.Dshcv1uTGg3syirJ9XzSn2XgJb6ZbSfZGMAP5W0Hw14&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/103565959?v=4",
         "url": "https://api.github.com/users/Crossbell-Box",
         "html_url": "https://github.com/Crossbell-Box"
       },
@@ -1622,7 +1622,7 @@
       "url": "https://api.github.com/repos/Crossbell-Box/xLog",
       "languages_url": "https://api.github.com/repos/Crossbell-Box/xLog/languages",
       "created_at": "2022-06-21T19:39:17Z",
-      "updated_at": "2024-12-19T05:34:33Z",
+      "updated_at": "2024-12-20T08:08:52Z",
       "git_url": "git://github.com/Crossbell-Box/xLog.git",
       "ssh_url": "git@github.com:Crossbell-Box/xLog.git",
       "clone_url": "https://github.com/Crossbell-Box/xLog.git",
@@ -1647,7 +1647,7 @@
       "owner": {
         "login": "ChatGPTNextWeb",
         "id": 153288546,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/153288546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzE1MzI4ODU0NiJ9.OELiu4w29Vm5mkT_HPHQp_pid1sD3er99rkxl-EvlVc&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/153288546?v=4",
         "url": "https://api.github.com/users/ChatGPTNextWeb",
         "html_url": "https://github.com/ChatGPTNextWeb"
       },
@@ -1656,13 +1656,13 @@
       "url": "https://api.github.com/repos/ChatGPTNextWeb/ChatGPT-Next-Web",
       "languages_url": "https://api.github.com/repos/ChatGPTNextWeb/ChatGPT-Next-Web/languages",
       "created_at": "2023-03-10T18:27:54Z",
-      "updated_at": "2024-12-20T00:55:31Z",
+      "updated_at": "2024-12-21T00:07:23Z",
       "git_url": "git://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git",
       "ssh_url": "git@github.com:ChatGPTNextWeb/ChatGPT-Next-Web.git",
       "clone_url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web.git",
       "homepage": "https://app.nextchat.dev/",
-      "stargazers_count": 77782,
-      "watchers_count": 77782,
+      "stargazers_count": 77810,
+      "watchers_count": 77810,
       "language": "TypeScript",
       "topics": [
         "calclaude",
@@ -1694,7 +1694,7 @@
       "owner": {
         "login": "chathub-dev",
         "id": 127382519,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/127382519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzEyNzM4MjUxOSJ9.PceBFUoBNM1fhCaO0GKPXxXipT3KGBQQJYj4L3QogrA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127382519?v=4",
         "url": "https://api.github.com/users/chathub-dev",
         "html_url": "https://github.com/chathub-dev"
       },
@@ -1703,7 +1703,7 @@
       "url": "https://api.github.com/repos/chathub-dev/chathub",
       "languages_url": "https://api.github.com/repos/chathub-dev/chathub/languages",
       "created_at": "2023-03-04T12:21:10Z",
-      "updated_at": "2024-12-19T11:32:27Z",
+      "updated_at": "2024-12-20T21:55:12Z",
       "git_url": "git://github.com/chathub-dev/chathub.git",
       "ssh_url": "git@github.com:chathub-dev/chathub.git",
       "clone_url": "https://github.com/chathub-dev/chathub.git",
@@ -1727,7 +1727,7 @@
       "owner": {
         "login": "bokeh",
         "id": 8440965,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8440965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91Lzg0NDA5NjUifQ.QQ7Xn-OYHJOghl4yHsoYfOIAoVTSFbuOzpF3mi3xNn8&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8440965?v=4",
         "url": "https://api.github.com/users/bokeh",
         "html_url": "https://github.com/bokeh"
       },
@@ -1736,13 +1736,13 @@
       "url": "https://api.github.com/repos/bokeh/bokeh",
       "languages_url": "https://api.github.com/repos/bokeh/bokeh/languages",
       "created_at": "2012-03-26T15:40:01Z",
-      "updated_at": "2024-12-19T10:07:17Z",
+      "updated_at": "2024-12-20T21:55:18Z",
       "git_url": "git://github.com/bokeh/bokeh.git",
       "ssh_url": "git@github.com:bokeh/bokeh.git",
       "clone_url": "https://github.com/bokeh/bokeh.git",
       "homepage": "https://bokeh.org",
-      "stargazers_count": 19465,
-      "watchers_count": 19465,
+      "stargazers_count": 19467,
+      "watchers_count": 19467,
       "language": "TypeScript",
       "topics": [
         "bokeh",
@@ -1767,7 +1767,7 @@
       "owner": {
         "login": "excalidraw",
         "id": 59452120,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/59452120?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzU5NDUyMTIwIn0.bLBYdynswD-e8TEAcouzcYSA_fdvDSKnO0bP0b3KBsA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59452120?v=4",
         "url": "https://api.github.com/users/excalidraw",
         "html_url": "https://github.com/excalidraw"
       },
@@ -1776,13 +1776,13 @@
       "url": "https://api.github.com/repos/excalidraw/excalidraw",
       "languages_url": "https://api.github.com/repos/excalidraw/excalidraw/languages",
       "created_at": "2020-01-02T01:04:43Z",
-      "updated_at": "2024-12-19T23:36:35Z",
+      "updated_at": "2024-12-21T00:55:09Z",
       "git_url": "git://github.com/excalidraw/excalidraw.git",
       "ssh_url": "git@github.com:excalidraw/excalidraw.git",
       "clone_url": "https://github.com/excalidraw/excalidraw.git",
       "homepage": "https://excalidraw.com",
-      "stargazers_count": 87787,
-      "watchers_count": 87787,
+      "stargazers_count": 87849,
+      "watchers_count": 87849,
       "language": "TypeScript",
       "topics": [
         "canvas",
@@ -1802,7 +1802,7 @@
       "owner": {
         "login": "DIYgod",
         "id": 8266075,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8266075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzgyNjYwNzUifQ.eHFkox1WW4Z2-eTQRJPbUQYsqyFil5ptXEHrnckhtMc&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8266075?v=4",
         "url": "https://api.github.com/users/DIYgod",
         "html_url": "https://github.com/DIYgod"
       },
@@ -1811,13 +1811,13 @@
       "url": "https://api.github.com/repos/DIYgod/RSSHub-Radar",
       "languages_url": "https://api.github.com/repos/DIYgod/RSSHub-Radar/languages",
       "created_at": "2019-07-16T14:00:28Z",
-      "updated_at": "2024-12-20T00:29:16Z",
+      "updated_at": "2024-12-20T16:10:53Z",
       "git_url": "git://github.com/DIYgod/RSSHub-Radar.git",
       "ssh_url": "git@github.com:DIYgod/RSSHub-Radar.git",
       "clone_url": "https://github.com/DIYgod/RSSHub-Radar.git",
       "homepage": "https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa",
-      "stargazers_count": 5923,
-      "watchers_count": 5923,
+      "stargazers_count": 5924,
+      "watchers_count": 5924,
       "language": "TypeScript",
       "topics": [
         "browser-extension",
@@ -1835,7 +1835,7 @@
       "owner": {
         "login": "mermaid-js",
         "id": 57169982,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/57169982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzU3MTY5OTgyIn0.EitFnYWlantMcdYKYt8F0ENvuHBybK1p_gVRhxFzH1Y&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57169982?v=4",
         "url": "https://api.github.com/users/mermaid-js",
         "html_url": "https://github.com/mermaid-js"
       },
@@ -1844,13 +1844,13 @@
       "url": "https://api.github.com/repos/mermaid-js/mermaid",
       "languages_url": "https://api.github.com/repos/mermaid-js/mermaid/languages",
       "created_at": "2014-11-01T23:52:32Z",
-      "updated_at": "2024-12-19T22:32:49Z",
+      "updated_at": "2024-12-20T22:23:23Z",
       "git_url": "git://github.com/mermaid-js/mermaid.git",
       "ssh_url": "git@github.com:mermaid-js/mermaid.git",
       "clone_url": "https://github.com/mermaid-js/mermaid.git",
       "homepage": "https://mermaid.js.org",
-      "stargazers_count": 73273,
-      "watchers_count": 73273,
+      "stargazers_count": 73296,
+      "watchers_count": 73296,
       "language": "TypeScript",
       "topics": [
         "diagrams",
@@ -1871,7 +1871,7 @@
       "owner": {
         "login": "thomaschampagne",
         "id": 151973,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/151973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzE1MTk3MyJ9.pDJqULkuVTInxnIYH69maSTUO9AnwOfKhYlpRxDmr3U&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/151973?v=4",
         "url": "https://api.github.com/users/thomaschampagne",
         "html_url": "https://github.com/thomaschampagne"
       },
@@ -1907,7 +1907,7 @@
       "owner": {
         "login": "wong2",
         "id": 321947,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/321947?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzMyMTk0NyJ9.UvnOB6adPxgV6nnFW4ryMmPVbkyWadXGUYIa3j8e20o&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/321947?v=4",
         "url": "https://api.github.com/users/wong2",
         "html_url": "https://github.com/wong2"
       },
@@ -1916,13 +1916,13 @@
       "url": "https://api.github.com/repos/wong2/chatgpt-google-extension",
       "languages_url": "https://api.github.com/repos/wong2/chatgpt-google-extension/languages",
       "created_at": "2022-12-04T13:33:22Z",
-      "updated_at": "2024-12-19T11:32:27Z",
+      "updated_at": "2024-12-20T21:55:12Z",
       "git_url": "git://github.com/wong2/chatgpt-google-extension.git",
       "ssh_url": "git@github.com:wong2/chatgpt-google-extension.git",
       "clone_url": "https://github.com/wong2/chatgpt-google-extension.git",
       "homepage": "https://chathub.gg",
-      "stargazers_count": 13251,
-      "watchers_count": 13251,
+      "stargazers_count": 13250,
+      "watchers_count": 13250,
       "language": "TypeScript",
       "topics": [
         "browser-extension",
@@ -1939,7 +1939,7 @@
       "owner": {
         "login": "fuergaosi233",
         "id": 22197568,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/22197568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzIyMTk3NTY4In0.FwxxDhQqs_qJLI665AauWb9qrJOII8nXqtKVcOqCfCA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22197568?v=4",
         "url": "https://api.github.com/users/fuergaosi233",
         "html_url": "https://github.com/fuergaosi233"
       },
@@ -1948,13 +1948,13 @@
       "url": "https://api.github.com/repos/fuergaosi233/wechat-chatgpt",
       "languages_url": "https://api.github.com/repos/fuergaosi233/wechat-chatgpt/languages",
       "created_at": "2022-12-06T13:15:21Z",
-      "updated_at": "2024-12-19T13:22:21Z",
+      "updated_at": "2024-12-20T16:42:07Z",
       "git_url": "git://github.com/fuergaosi233/wechat-chatgpt.git",
       "ssh_url": "git@github.com:fuergaosi233/wechat-chatgpt.git",
       "clone_url": "https://github.com/fuergaosi233/wechat-chatgpt.git",
       "homepage": null,
-      "stargazers_count": 13295,
-      "watchers_count": 13295,
+      "stargazers_count": 13297,
+      "watchers_count": 13297,
       "language": "TypeScript",
       "topics": []
     }
@@ -1968,7 +1968,7 @@
       "owner": {
         "login": "gildas-lormeau",
         "id": 396787,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/396787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzM5Njc4NyJ9.p731J-K2bAcv0FnGtDUCg4rLyvQ-gTaibcMa0goJJHs&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/396787?v=4",
         "url": "https://api.github.com/users/gildas-lormeau",
         "html_url": "https://github.com/gildas-lormeau"
       },
@@ -1977,13 +1977,13 @@
       "url": "https://api.github.com/repos/gildas-lormeau/SingleFile",
       "languages_url": "https://api.github.com/repos/gildas-lormeau/SingleFile/languages",
       "created_at": "2010-09-12T23:50:21Z",
-      "updated_at": "2024-12-19T19:19:48Z",
+      "updated_at": "2024-12-20T21:38:46Z",
       "git_url": "git://github.com/gildas-lormeau/SingleFile.git",
       "ssh_url": "git@github.com:gildas-lormeau/SingleFile.git",
       "clone_url": "https://github.com/gildas-lormeau/SingleFile.git",
       "homepage": "",
-      "stargazers_count": 16014,
-      "watchers_count": 16014,
+      "stargazers_count": 16018,
+      "watchers_count": 16018,
       "language": "JavaScript",
       "topics": [
         "annotations",
@@ -2016,7 +2016,7 @@
       "owner": {
         "login": "InternLM",
         "id": 135356492,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/135356492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzEzNTM1NjQ5MiJ9.M90h-hroml_gStYKlI-PFTG0Qjb3eqM8t7zmENsW_4k&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/135356492?v=4",
         "url": "https://api.github.com/users/InternLM",
         "html_url": "https://github.com/InternLM"
       },
@@ -2025,13 +2025,13 @@
       "url": "https://api.github.com/repos/InternLM/MindSearch",
       "languages_url": "https://api.github.com/repos/InternLM/MindSearch/languages",
       "created_at": "2024-07-28T03:54:50Z",
-      "updated_at": "2024-12-19T10:32:44Z",
+      "updated_at": "2024-12-20T19:45:51Z",
       "git_url": "git://github.com/InternLM/MindSearch.git",
       "ssh_url": "git@github.com:InternLM/MindSearch.git",
       "clone_url": "https://github.com/InternLM/MindSearch.git",
       "homepage": "",
-      "stargazers_count": 5516,
-      "watchers_count": 5516,
+      "stargazers_count": 5522,
+      "watchers_count": 5522,
       "language": "JavaScript",
       "topics": [
         "ai-search-engine",
@@ -2054,7 +2054,7 @@
       "owner": {
         "login": "cg-dot",
         "id": 22318727,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/22318727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3NjAsIm5iZiI6MTczNDY1NTU2MCwicGF0aCI6Ii91LzIyMzE4NzI3In0.LpLiL0OGv0YJ9tuaTgrOY-VHOpe1WeMM28WEio1EkIY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22318727?v=4",
         "url": "https://api.github.com/users/cg-dot",
         "html_url": "https://github.com/cg-dot"
       },
@@ -2063,13 +2063,13 @@
       "url": "https://api.github.com/repos/cg-dot/vertexai-cf-workers",
       "languages_url": "https://api.github.com/repos/cg-dot/vertexai-cf-workers/languages",
       "created_at": "2024-06-29T08:51:04Z",
-      "updated_at": "2024-12-17T17:25:57Z",
+      "updated_at": "2024-12-20T03:12:27Z",
       "git_url": "git://github.com/cg-dot/vertexai-cf-workers.git",
       "ssh_url": "git@github.com:cg-dot/vertexai-cf-workers.git",
       "clone_url": "https://github.com/cg-dot/vertexai-cf-workers.git",
       "homepage": "",
-      "stargazers_count": 631,
-      "watchers_count": 631,
+      "stargazers_count": 633,
+      "watchers_count": 633,
       "language": "JavaScript",
       "topics": []
     },
@@ -2081,7 +2081,7 @@
       "owner": {
         "login": "gethomepage",
         "id": 122929872,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/122929872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzEyMjkyOTg3MiJ9.-J4A1Z3crPLrJzqAWaWYnTBqzfH-mpHK4uFL5kvNr_c&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/122929872?v=4",
         "url": "https://api.github.com/users/gethomepage",
         "html_url": "https://github.com/gethomepage"
       },
@@ -2090,13 +2090,13 @@
       "url": "https://api.github.com/repos/gethomepage/homepage",
       "languages_url": "https://api.github.com/repos/gethomepage/homepage/languages",
       "created_at": "2022-08-24T07:29:42Z",
-      "updated_at": "2024-12-19T21:11:54Z",
+      "updated_at": "2024-12-21T00:23:28Z",
       "git_url": "git://github.com/gethomepage/homepage.git",
       "ssh_url": "git@github.com:gethomepage/homepage.git",
       "clone_url": "https://github.com/gethomepage/homepage.git",
       "homepage": "https://gethomepage.dev",
-      "stargazers_count": 20475,
-      "watchers_count": 20475,
+      "stargazers_count": 20491,
+      "watchers_count": 20491,
       "language": "JavaScript",
       "topics": [
         "docker",
@@ -2116,7 +2116,7 @@
       "owner": {
         "login": "slarkvan",
         "id": 131340443,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/131340443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzEzMTM0MDQ0MyJ9.lS0XSW7yTlqzXn7nXE0MvH2zpXafX_xlwD5adUysr5E&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/131340443?v=4",
         "url": "https://api.github.com/users/slarkvan",
         "html_url": "https://github.com/slarkvan"
       },
@@ -2143,7 +2143,7 @@
       "owner": {
         "login": "doufen-org",
         "id": 50049756,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/50049756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY5NDAsIm5iZiI6MTczNDY1NTc0MCwicGF0aCI6Ii91LzUwMDQ5NzU2In0.B-ux3J1PGe6EsUrXXII_J0-3zayeLSEQNhxCnzzJQsE&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/50049756?v=4",
         "url": "https://api.github.com/users/doufen-org",
         "html_url": "https://github.com/doufen-org"
       },
@@ -2174,7 +2174,7 @@
       "owner": {
         "login": "Reamd7",
         "id": 22834225,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/22834225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzIyODM0MjI1In0.btVOOgw_WJTYTHO4cZfsQjsW2HWbSVJalDoBbRtOx8o&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/22834225?v=4",
         "url": "https://api.github.com/users/Reamd7",
         "html_url": "https://github.com/Reamd7"
       },
@@ -2183,13 +2183,13 @@
       "url": "https://api.github.com/repos/Reamd7/notion-zh_CN",
       "languages_url": "https://api.github.com/repos/Reamd7/notion-zh_CN/languages",
       "created_at": "2021-08-12T14:41:52Z",
-      "updated_at": "2024-12-19T10:25:10Z",
+      "updated_at": "2024-12-20T18:43:14Z",
       "git_url": "git://github.com/Reamd7/notion-zh_CN.git",
       "ssh_url": "git@github.com:Reamd7/notion-zh_CN.git",
       "clone_url": "https://github.com/Reamd7/notion-zh_CN.git",
       "homepage": null,
-      "stargazers_count": 7386,
-      "watchers_count": 7386,
+      "stargazers_count": 7384,
+      "watchers_count": 7384,
       "language": "JavaScript",
       "topics": []
     },
@@ -2201,7 +2201,7 @@
       "owner": {
         "login": "Leaflet",
         "id": 2854298,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/2854298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzI4NTQyOTgifQ.hEBetXpmXSRLHk0HCGA5Y2oebdyUxOqnjD8rnxlLdOM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/2854298?v=4",
         "url": "https://api.github.com/users/Leaflet",
         "html_url": "https://github.com/Leaflet"
       },
@@ -2210,13 +2210,13 @@
       "url": "https://api.github.com/repos/Leaflet/Leaflet",
       "languages_url": "https://api.github.com/repos/Leaflet/Leaflet/languages",
       "created_at": "2010-09-22T16:57:44Z",
-      "updated_at": "2024-12-19T18:50:58Z",
+      "updated_at": "2024-12-20T20:34:32Z",
       "git_url": "git://github.com/Leaflet/Leaflet.git",
       "ssh_url": "git@github.com:Leaflet/Leaflet.git",
       "clone_url": "https://github.com/Leaflet/Leaflet.git",
       "homepage": "https://leafletjs.com",
-      "stargazers_count": 41646,
-      "watchers_count": 41646,
+      "stargazers_count": 41653,
+      "watchers_count": 41653,
       "language": "JavaScript",
       "topics": [
         "javascript",
@@ -2232,7 +2232,7 @@
       "owner": {
         "login": "tangly1024",
         "id": 15920488,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/15920488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzE1OTIwNDg4In0.GgQb6c_oLNG5F26qeZhS0Gz3QUwW3Sb8aVZDhXgGYEM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15920488?v=4",
         "url": "https://api.github.com/users/tangly1024",
         "html_url": "https://github.com/tangly1024"
       },
@@ -2241,13 +2241,13 @@
       "url": "https://api.github.com/repos/tangly1024/NotionNext",
       "languages_url": "https://api.github.com/repos/tangly1024/NotionNext/languages",
       "created_at": "2021-09-26T07:23:22Z",
-      "updated_at": "2024-12-19T16:58:23Z",
+      "updated_at": "2024-12-20T19:52:37Z",
       "git_url": "git://github.com/tangly1024/NotionNext.git",
       "ssh_url": "git@github.com:tangly1024/NotionNext.git",
       "clone_url": "https://github.com/tangly1024/NotionNext.git",
       "homepage": "https://tangly1024.com",
-      "stargazers_count": 8143,
-      "watchers_count": 8143,
+      "stargazers_count": 8148,
+      "watchers_count": 8148,
       "language": "JavaScript",
       "topics": [
         "blog",
@@ -2267,7 +2267,7 @@
       "owner": {
         "login": "Rello",
         "id": 13385119,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/13385119?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzEzMzg1MTE5In0.7I-NcTeA4RqPQqFIVbVX594RhVSgLx1S02QY-EeaDi8&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13385119?v=4",
         "url": "https://api.github.com/users/Rello",
         "html_url": "https://github.com/Rello"
       },
@@ -2276,7 +2276,7 @@
       "url": "https://api.github.com/repos/Rello/analytics",
       "languages_url": "https://api.github.com/repos/Rello/analytics/languages",
       "created_at": "2019-10-08T19:01:42Z",
-      "updated_at": "2024-12-18T03:01:27Z",
+      "updated_at": "2024-12-20T02:37:22Z",
       "git_url": "git://github.com/Rello/analytics.git",
       "ssh_url": "git@github.com:Rello/analytics.git",
       "clone_url": "https://github.com/Rello/analytics.git",
@@ -2301,7 +2301,7 @@
       "owner": {
         "login": "ciderapp",
         "id": 87914859,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/87914859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91Lzg3OTE0ODU5In0.BzAwmjZT9VnYqZkxvsed-Xpofn8n7S8mMPHVJCir1N8&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/87914859?v=4",
         "url": "https://api.github.com/users/ciderapp",
         "html_url": "https://github.com/ciderapp"
       },
@@ -2310,13 +2310,13 @@
       "url": "https://api.github.com/repos/ciderapp/Cider",
       "languages_url": "https://api.github.com/repos/ciderapp/Cider/languages",
       "created_at": "2021-11-19T15:45:44Z",
-      "updated_at": "2024-12-19T17:29:45Z",
+      "updated_at": "2024-12-20T13:04:38Z",
       "git_url": "git://github.com/ciderapp/Cider.git",
       "ssh_url": "git@github.com:ciderapp/Cider.git",
       "clone_url": "https://github.com/ciderapp/Cider.git",
       "homepage": "https://cider.sh",
-      "stargazers_count": 7200,
-      "watchers_count": 7200,
+      "stargazers_count": 7201,
+      "watchers_count": 7201,
       "language": "JavaScript",
       "topics": [
         "apple-music",
@@ -2333,7 +2333,7 @@
       "owner": {
         "login": "iamadamdev",
         "id": 36013816,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/36013816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzM2MDEzODE2In0.s5I0NBmjXm82mI5WCn8WoCcYtEMKE07oQn4AHLAQfHw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/36013816?v=4",
         "url": "https://api.github.com/users/iamadamdev",
         "html_url": "https://github.com/iamadamdev"
       },
@@ -2372,7 +2372,7 @@
       "owner": {
         "login": "morytyann",
         "id": 10665459,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/10665459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzEwNjY1NDU5In0.MkFllFrAJlL2s3mRMadehE8fUYYez9pJ0VEH3FkZWko&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/10665459?v=4",
         "url": "https://api.github.com/users/morytyann",
         "html_url": "https://github.com/morytyann"
       },
@@ -2381,13 +2381,13 @@
       "url": "https://api.github.com/repos/morytyann/OpenWrt-mihomo",
       "languages_url": "https://api.github.com/repos/morytyann/OpenWrt-mihomo/languages",
       "created_at": "2024-05-11T08:59:35Z",
-      "updated_at": "2024-12-19T17:17:28Z",
+      "updated_at": "2024-12-20T19:32:52Z",
       "git_url": "git://github.com/morytyann/OpenWrt-mihomo.git",
       "ssh_url": "git@github.com:morytyann/OpenWrt-mihomo.git",
       "clone_url": "https://github.com/morytyann/OpenWrt-mihomo.git",
       "homepage": "",
-      "stargazers_count": 1525,
-      "watchers_count": 1525,
+      "stargazers_count": 1530,
+      "watchers_count": 1530,
       "language": "Shell",
       "topics": [
         "mihomo",
@@ -2404,7 +2404,7 @@
       "owner": {
         "login": "bcseputetto",
         "id": 29139573,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/29139573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3NjAsIm5iZiI6MTczNDY1NTU2MCwicGF0aCI6Ii91LzI5MTM5NTczIn0.ii7DbFGB8eNN8rlD8gN9f0hkXISQKB3KoFTbwj3HMGw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/29139573?v=4",
         "url": "https://api.github.com/users/bcseputetto",
         "html_url": "https://github.com/bcseputetto"
       },
@@ -2413,13 +2413,13 @@
       "url": "https://api.github.com/repos/bcseputetto/Are-u-ok",
       "languages_url": "https://api.github.com/repos/bcseputetto/Are-u-ok/languages",
       "created_at": "2023-11-08T20:31:43Z",
-      "updated_at": "2024-12-18T15:51:51Z",
+      "updated_at": "2024-12-20T15:08:10Z",
       "git_url": "git://github.com/bcseputetto/Are-u-ok.git",
       "ssh_url": "git@github.com:bcseputetto/Are-u-ok.git",
       "clone_url": "https://github.com/bcseputetto/Are-u-ok.git",
       "homepage": "https://github.com/istoreos",
-      "stargazers_count": 484,
-      "watchers_count": 484,
+      "stargazers_count": 487,
+      "watchers_count": 487,
       "language": "Shell",
       "topics": []
     },
@@ -2431,7 +2431,7 @@
       "owner": {
         "login": "jgraph",
         "id": 1769238,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/1769238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzE3NjkyMzgifQ.YR_eXvA752BqVwoUO9Lda3_dRGbFGEgOFSv2XavAf7U&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1769238?v=4",
         "url": "https://api.github.com/users/jgraph",
         "html_url": "https://github.com/jgraph"
       },
@@ -2440,13 +2440,13 @@
       "url": "https://api.github.com/repos/jgraph/docker-drawio",
       "languages_url": "https://api.github.com/repos/jgraph/docker-drawio/languages",
       "created_at": "2019-08-08T16:43:39Z",
-      "updated_at": "2024-12-19T03:45:55Z",
+      "updated_at": "2024-12-20T02:07:38Z",
       "git_url": "git://github.com/jgraph/docker-drawio.git",
       "ssh_url": "git@github.com:jgraph/docker-drawio.git",
       "clone_url": "https://github.com/jgraph/docker-drawio.git",
       "homepage": "",
-      "stargazers_count": 1613,
-      "watchers_count": 1613,
+      "stargazers_count": 1614,
+      "watchers_count": 1614,
       "language": "Shell",
       "topics": []
     },
@@ -2458,7 +2458,7 @@
       "owner": {
         "login": "yeahwu",
         "id": 13328328,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/13328328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxMjAsIm5iZiI6MTczNDY1NTkyMCwicGF0aCI6Ii91LzEzMzI4MzI4In0.rbKSM0TdkCZj4aSgg4vex2LxSWk_HMBcx4MU6HYmI8U&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/13328328?v=4",
         "url": "https://api.github.com/users/yeahwu",
         "html_url": "https://github.com/yeahwu"
       },
@@ -2467,7 +2467,7 @@
       "url": "https://api.github.com/repos/yeahwu/v2ray-wss",
       "languages_url": "https://api.github.com/repos/yeahwu/v2ray-wss/languages",
       "created_at": "2021-07-15T15:11:30Z",
-      "updated_at": "2024-12-19T06:08:40Z",
+      "updated_at": "2024-12-20T17:44:23Z",
       "git_url": "git://github.com/yeahwu/v2ray-wss.git",
       "ssh_url": "git@github.com:yeahwu/v2ray-wss.git",
       "clone_url": "https://github.com/yeahwu/v2ray-wss.git",
@@ -2490,7 +2490,7 @@
       "owner": {
         "login": "cutelua",
         "id": 33216131,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/33216131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3MDAsIm5iZiI6MTczNDY1NTUwMCwicGF0aCI6Ii91LzMzMjE2MTMxIn0.Bs52nRjyMNOdhD71VCX81iaJPiXbWvtSOxmuG87DHns&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/33216131?v=4",
         "url": "https://api.github.com/users/cutelua",
         "html_url": "https://github.com/cutelua"
       },
@@ -2524,7 +2524,7 @@
       "owner": {
         "login": "Mark24Code",
         "id": 7592004,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/7592004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91Lzc1OTIwMDQifQ.b-p4PfvkP07UkWX_sy6ACk69asuAqLVEkBSR0SxNa48&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/7592004?v=4",
         "url": "https://api.github.com/users/Mark24Code",
         "html_url": "https://github.com/Mark24Code"
       },
@@ -2533,7 +2533,7 @@
       "url": "https://api.github.com/repos/Mark24Code/rime-auto-deploy",
       "languages_url": "https://api.github.com/repos/Mark24Code/rime-auto-deploy/languages",
       "created_at": "2023-04-06T15:09:10Z",
-      "updated_at": "2024-12-19T17:18:24Z",
+      "updated_at": "2024-12-20T02:38:27Z",
       "git_url": "git://github.com/Mark24Code/rime-auto-deploy.git",
       "ssh_url": "git@github.com:Mark24Code/rime-auto-deploy.git",
       "clone_url": "https://github.com/Mark24Code/rime-auto-deploy.git",
@@ -2564,7 +2564,7 @@
       "owner": {
         "login": "Stirling-Tools",
         "id": 139791695,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/139791695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzEzOTc5MTY5NSJ9.LcmY-bIjTfpXzHCsBw8YmfDw3e3xKeKFgSTfMGbVhVA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/139791695?v=4",
         "url": "https://api.github.com/users/Stirling-Tools",
         "html_url": "https://github.com/Stirling-Tools"
       },
@@ -2573,13 +2573,13 @@
       "url": "https://api.github.com/repos/Stirling-Tools/Stirling-PDF",
       "languages_url": "https://api.github.com/repos/Stirling-Tools/Stirling-PDF/languages",
       "created_at": "2023-01-27T18:22:42Z",
-      "updated_at": "2024-12-20T00:08:03Z",
+      "updated_at": "2024-12-21T00:35:21Z",
       "git_url": "git://github.com/Stirling-Tools/Stirling-PDF.git",
       "ssh_url": "git@github.com:Stirling-Tools/Stirling-PDF.git",
       "clone_url": "https://github.com/Stirling-Tools/Stirling-PDF.git",
       "homepage": "https://stirlingpdf.com",
-      "stargazers_count": 47493,
-      "watchers_count": 47493,
+      "stargazers_count": 47514,
+      "watchers_count": 47514,
       "language": "Java",
       "topics": [
         "docker",
@@ -2603,7 +2603,7 @@
       "owner": {
         "login": "krahets",
         "id": 26993056,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/26993056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzI2OTkzMDU2In0.R65lBpahSDub8lCQ0x2xnJwwiORH1OlhSGb_-8Z9WdU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26993056?v=4",
         "url": "https://api.github.com/users/krahets",
         "html_url": "https://github.com/krahets"
       },
@@ -2612,13 +2612,13 @@
       "url": "https://api.github.com/repos/krahets/hello-algo",
       "languages_url": "https://api.github.com/repos/krahets/hello-algo/languages",
       "created_at": "2022-11-04T11:08:34Z",
-      "updated_at": "2024-12-20T00:40:50Z",
+      "updated_at": "2024-12-21T00:42:41Z",
       "git_url": "git://github.com/krahets/hello-algo.git",
       "ssh_url": "git@github.com:krahets/hello-algo.git",
       "clone_url": "https://github.com/krahets/hello-algo.git",
       "homepage": "https://www.hello-algo.com",
-      "stargazers_count": 103742,
-      "watchers_count": 103742,
+      "stargazers_count": 103814,
+      "watchers_count": 103814,
       "language": "Java",
       "topics": [
         "algo",
@@ -2644,7 +2644,7 @@
       "owner": {
         "login": "deanxv",
         "id": 57529708,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/57529708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczNjAsIm5iZiI6MTczNDY1NjE2MCwicGF0aCI6Ii91LzU3NTI5NzA4In0.oPzdS5qDXy2yW-hul-1-aFlCv8qqUSjdJglGzZqsOUE&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/57529708?v=4",
         "url": "https://api.github.com/users/deanxv",
         "html_url": "https://github.com/deanxv"
       },
@@ -2671,7 +2671,7 @@
       "owner": {
         "login": "navidrome",
         "id": 26692192,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/26692192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzI2NjkyMTkyIn0.VQ3jOuyFpz0_WPpGVyyM871ETHXv0RMlFsMgBuFBVXk&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26692192?v=4",
         "url": "https://api.github.com/users/navidrome",
         "html_url": "https://github.com/navidrome"
       },
@@ -2680,13 +2680,13 @@
       "url": "https://api.github.com/repos/navidrome/navidrome",
       "languages_url": "https://api.github.com/repos/navidrome/navidrome/languages",
       "created_at": "2016-02-24T23:25:12Z",
-      "updated_at": "2024-12-19T23:44:05Z",
+      "updated_at": "2024-12-21T00:07:31Z",
       "git_url": "git://github.com/navidrome/navidrome.git",
       "ssh_url": "git@github.com:navidrome/navidrome.git",
       "clone_url": "https://github.com/navidrome/navidrome.git",
       "homepage": "https://www.navidrome.org",
-      "stargazers_count": 12451,
-      "watchers_count": 12451,
+      "stargazers_count": 12469,
+      "watchers_count": 12469,
       "language": "Go",
       "topics": [
         "airsonic",
@@ -2713,7 +2713,7 @@
       "owner": {
         "login": "AlistGo",
         "id": 184931308,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/184931308?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzE4NDkzMTMwOCJ9._jC5mVEOkc0VqFWbwF13MWLyZiD_dpsPsMAxNARR8sY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/184931308?v=4",
         "url": "https://api.github.com/users/AlistGo",
         "html_url": "https://github.com/AlistGo"
       },
@@ -2722,13 +2722,13 @@
       "url": "https://api.github.com/repos/AlistGo/alist",
       "languages_url": "https://api.github.com/repos/AlistGo/alist/languages",
       "created_at": "2020-12-23T17:40:29Z",
-      "updated_at": "2024-12-20T00:52:32Z",
+      "updated_at": "2024-12-21T00:10:01Z",
       "git_url": "git://github.com/AlistGo/alist.git",
       "ssh_url": "git@github.com:AlistGo/alist.git",
       "clone_url": "https://github.com/AlistGo/alist.git",
       "homepage": "https://alistgo.com",
-      "stargazers_count": 44853,
-      "watchers_count": 44853,
+      "stargazers_count": 44873,
+      "watchers_count": 44873,
       "language": "Go",
       "topics": [
         "file-server",
@@ -2747,7 +2747,7 @@
       "owner": {
         "login": "mindoc-org",
         "id": 81214864,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/81214864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91LzgxMjE0ODY0In0.3HfRx0I2pmdCRJ3duwesersVxeTaRw6NmXDiSqnru0Q&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/81214864?v=4",
         "url": "https://api.github.com/users/mindoc-org",
         "html_url": "https://github.com/mindoc-org"
       },
@@ -2756,13 +2756,13 @@
       "url": "https://api.github.com/repos/mindoc-org/mindoc",
       "languages_url": "https://api.github.com/repos/mindoc-org/mindoc/languages",
       "created_at": "2017-04-19T05:37:46Z",
-      "updated_at": "2024-12-19T02:38:55Z",
+      "updated_at": "2024-12-20T05:39:53Z",
       "git_url": "git://github.com/mindoc-org/mindoc.git",
       "ssh_url": "git@github.com:mindoc-org/mindoc.git",
       "clone_url": "https://github.com/mindoc-org/mindoc.git",
       "homepage": "https://mindoc.com.cn/docs/mindochelp",
-      "stargazers_count": 7395,
-      "watchers_count": 7395,
+      "stargazers_count": 7394,
+      "watchers_count": 7394,
       "language": "Go",
       "topics": [
         "beego",
@@ -2781,7 +2781,7 @@
       "owner": {
         "login": "YanxinTang",
         "id": 15326923,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/15326923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxODAsIm5iZiI6MTczNDY1NTk4MCwicGF0aCI6Ii91LzE1MzI2OTIzIn0.LwMPhXf1pjTL64vg7q9elr2j66mzrfvB7Ar4CR2zzqY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/15326923?v=4",
         "url": "https://api.github.com/users/YanxinTang",
         "html_url": "https://github.com/YanxinTang"
       },
@@ -2808,7 +2808,7 @@
       "owner": {
         "login": "m1guelpf",
         "id": 23558090,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/23558090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4ODAsIm5iZiI6MTczNDY1NTY4MCwicGF0aCI6Ii91LzIzNTU4MDkwIn0.YByJ7o_xV6js3sWUx1pm3ADDHKoS0PZl9bFafkpQFTQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/23558090?v=4",
         "url": "https://api.github.com/users/m1guelpf",
         "html_url": "https://github.com/m1guelpf"
       },
@@ -2842,7 +2842,7 @@
       "owner": {
         "login": "neodevpro",
         "id": 63512574,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/63512574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwNjAsIm5iZiI6MTczNDY1NTg2MCwicGF0aCI6Ii91LzYzNTEyNTc0In0.I5HgCi8KWrsVYE4PAOs9uClIp9hbZE8WM_hPL7iYyMg&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/63512574?v=4",
         "url": "https://api.github.com/users/neodevpro",
         "html_url": "https://github.com/neodevpro"
       },
@@ -2851,7 +2851,7 @@
       "url": "https://api.github.com/repos/neodevpro/neodevhost",
       "languages_url": "https://api.github.com/repos/neodevpro/neodevhost/languages",
       "created_at": "2020-05-19T09:37:01Z",
-      "updated_at": "2024-12-19T08:10:59Z",
+      "updated_at": "2024-12-20T08:10:32Z",
       "git_url": "git://github.com/neodevpro/neodevhost.git",
       "ssh_url": "git@github.com:neodevpro/neodevhost.git",
       "clone_url": "https://github.com/neodevpro/neodevhost.git",
@@ -2892,7 +2892,7 @@
       "owner": {
         "login": "Droid-ify",
         "id": 123971387,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/123971387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTczMDAsIm5iZiI6MTczNDY1NjEwMCwicGF0aCI6Ii91LzEyMzk3MTM4NyJ9._F1pxzfCQj1mSbbVtR1pyyxGY2yes_zqvYvmhW5T2d8&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/123971387?v=4",
         "url": "https://api.github.com/users/Droid-ify",
         "html_url": "https://github.com/Droid-ify"
       },
@@ -2901,13 +2901,13 @@
       "url": "https://api.github.com/repos/Droid-ify/client",
       "languages_url": "https://api.github.com/repos/Droid-ify/client/languages",
       "created_at": "2022-07-04T12:03:15Z",
-      "updated_at": "2024-12-19T17:38:09Z",
+      "updated_at": "2024-12-20T23:49:20Z",
       "git_url": "git://github.com/Droid-ify/client.git",
       "ssh_url": "git@github.com:Droid-ify/client.git",
       "clone_url": "https://github.com/Droid-ify/client.git",
       "homepage": "",
-      "stargazers_count": 4110,
-      "watchers_count": 4110,
+      "stargazers_count": 4114,
+      "watchers_count": 4114,
       "language": "Kotlin",
       "topics": [
         "android",
@@ -2927,7 +2927,7 @@
       "owner": {
         "login": "hectorqin",
         "id": 14220132,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/14220132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzE0MjIwMTMyIn0.KH-SjSy5PfXiHtupGsJ3nWaladXO41n9GUYSPkVD8_4&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14220132?v=4",
         "url": "https://api.github.com/users/hectorqin",
         "html_url": "https://github.com/hectorqin"
       },
@@ -2936,13 +2936,13 @@
       "url": "https://api.github.com/repos/hectorqin/reader",
       "languages_url": "https://api.github.com/repos/hectorqin/reader/languages",
       "created_at": "2021-08-13T06:28:54Z",
-      "updated_at": "2024-12-19T19:42:38Z",
+      "updated_at": "2024-12-20T16:07:03Z",
       "git_url": "git://github.com/hectorqin/reader.git",
       "ssh_url": "git@github.com:hectorqin/reader.git",
       "clone_url": "https://github.com/hectorqin/reader.git",
       "homepage": "",
-      "stargazers_count": 8528,
-      "watchers_count": 8528,
+      "stargazers_count": 8536,
+      "watchers_count": 8536,
       "language": "Kotlin",
       "topics": []
     }
@@ -2956,7 +2956,7 @@
       "owner": {
         "login": "lxgw",
         "id": 51902309,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/51902309?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91LzUxOTAyMzA5In0.NQGAnXSjGgBUzYqLA9xgZOvoeZuqgab3r2xedSRmitw&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/51902309?v=4",
         "url": "https://api.github.com/users/lxgw",
         "html_url": "https://github.com/lxgw"
       },
@@ -2965,13 +2965,13 @@
       "url": "https://api.github.com/repos/lxgw/LxgwWenKai",
       "languages_url": "https://api.github.com/repos/lxgw/LxgwWenKai/languages",
       "created_at": "2021-01-30T15:41:52Z",
-      "updated_at": "2024-12-19T14:59:31Z",
+      "updated_at": "2024-12-21T00:56:15Z",
       "git_url": "git://github.com/lxgw/LxgwWenKai.git",
       "ssh_url": "git@github.com:lxgw/LxgwWenKai.git",
       "clone_url": "https://github.com/lxgw/LxgwWenKai.git",
       "homepage": "https://lxgw.github.io/2021/01/28/Klee-Simpchin/",
-      "stargazers_count": 18473,
-      "watchers_count": 18473,
+      "stargazers_count": 18480,
+      "watchers_count": 18480,
       "language": "Batchfile",
       "topics": [
         "cjk",
@@ -2989,7 +2989,7 @@
       "owner": {
         "login": "sbwml",
         "id": 16485166,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/16485166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzE2NDg1MTY2In0.vkj8HWeFnJ3w8112dvuCKoQ2lyRSiVDsxKZ_6962YBM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16485166?v=4",
         "url": "https://api.github.com/users/sbwml",
         "html_url": "https://github.com/sbwml"
       },
@@ -2998,13 +2998,13 @@
       "url": "https://api.github.com/repos/sbwml/halflife-list",
       "languages_url": "https://api.github.com/repos/sbwml/halflife-list/languages",
       "created_at": "2021-06-10T03:11:01Z",
-      "updated_at": "2024-12-19T02:39:59Z",
+      "updated_at": "2024-12-20T10:19:10Z",
       "git_url": "git://github.com/sbwml/halflife-list.git",
       "ssh_url": "git@github.com:sbwml/halflife-list.git",
       "clone_url": "https://github.com/sbwml/halflife-list.git",
       "homepage": "",
-      "stargazers_count": 742,
-      "watchers_count": 742,
+      "stargazers_count": 743,
+      "watchers_count": 743,
       "language": "Perl",
       "topics": []
     }
@@ -3018,7 +3018,7 @@
       "owner": {
         "login": "iDvel",
         "id": 14658234,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/14658234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91LzE0NjU4MjM0In0.S9sp8bCTRxV-K2AVCeBXllg0q0xn_5gIUugHgyUjniM&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14658234?v=4",
         "url": "https://api.github.com/users/iDvel",
         "html_url": "https://github.com/iDvel"
       },
@@ -3027,13 +3027,13 @@
       "url": "https://api.github.com/repos/iDvel/rime-ice",
       "languages_url": "https://api.github.com/repos/iDvel/rime-ice/languages",
       "created_at": "2021-01-29T10:25:46Z",
-      "updated_at": "2024-12-19T23:07:22Z",
+      "updated_at": "2024-12-21T00:13:31Z",
       "git_url": "git://github.com/iDvel/rime-ice.git",
       "ssh_url": "git@github.com:iDvel/rime-ice.git",
       "clone_url": "https://github.com/iDvel/rime-ice.git",
       "homepage": "https://dvel.me/posts/rime-ice/",
-      "stargazers_count": 10218,
-      "watchers_count": 10218,
+      "stargazers_count": 10240,
+      "watchers_count": 10240,
       "language": "Lua",
       "topics": [
         "rime",
@@ -3054,7 +3054,7 @@
       "owner": {
         "login": "Chanzhaoyu",
         "id": 24789441,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/24789441?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3NjAsIm5iZiI6MTczNDY1NTU2MCwicGF0aCI6Ii91LzI0Nzg5NDQxIn0.xXl4nZ3K9kKFLPLaNiIZ4xYRqlf52DUG407cLtSMaXs&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/24789441?v=4",
         "url": "https://api.github.com/users/Chanzhaoyu",
         "html_url": "https://github.com/Chanzhaoyu"
       },
@@ -3063,13 +3063,13 @@
       "url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web",
       "languages_url": "https://api.github.com/repos/Chanzhaoyu/chatgpt-web/languages",
       "created_at": "2023-02-09T03:21:37Z",
-      "updated_at": "2024-12-19T18:50:59Z",
+      "updated_at": "2024-12-20T21:55:12Z",
       "git_url": "git://github.com/Chanzhaoyu/chatgpt-web.git",
       "ssh_url": "git@github.com:Chanzhaoyu/chatgpt-web.git",
       "clone_url": "https://github.com/Chanzhaoyu/chatgpt-web.git",
       "homepage": "",
-      "stargazers_count": 31635,
-      "watchers_count": 31635,
+      "stargazers_count": 31641,
+      "watchers_count": 31641,
       "language": "Vue",
       "topics": []
     },
@@ -3081,7 +3081,7 @@
       "owner": {
         "login": "qier222",
         "id": 68148142,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/68148142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzY4MTQ4MTQyIn0.X_IBRun863I-R7kEMbRo0zICrCdsWJwjsiMaIbsJBAY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/68148142?v=4",
         "url": "https://api.github.com/users/qier222",
         "html_url": "https://github.com/qier222"
       },
@@ -3090,13 +3090,13 @@
       "url": "https://api.github.com/repos/qier222/YesPlayMusic",
       "languages_url": "https://api.github.com/repos/qier222/YesPlayMusic/languages",
       "created_at": "2020-10-09T10:04:21Z",
-      "updated_at": "2024-12-19T19:48:56Z",
+      "updated_at": "2024-12-20T16:58:06Z",
       "git_url": "git://github.com/qier222/YesPlayMusic.git",
       "ssh_url": "git@github.com:qier222/YesPlayMusic.git",
       "clone_url": "https://github.com/qier222/YesPlayMusic.git",
       "homepage": "https://music.qier222.com",
-      "stargazers_count": 29950,
-      "watchers_count": 29950,
+      "stargazers_count": 29961,
+      "watchers_count": 29961,
       "language": "Vue",
       "topics": [
         "electron",
@@ -3129,7 +3129,7 @@
       "owner": {
         "login": "coolsnowwolf",
         "id": 31687149,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/31687149?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0ODAsIm5iZiI6MTczNDY1NjI4MCwicGF0aCI6Ii91LzMxNjg3MTQ5In0.6d1g53YF809IhKJirDfnVjaUKKjJt0nPa4SDUBkjN1I&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/31687149?v=4",
         "url": "https://api.github.com/users/coolsnowwolf",
         "html_url": "https://github.com/coolsnowwolf"
       },
@@ -3138,13 +3138,13 @@
       "url": "https://api.github.com/repos/coolsnowwolf/lede",
       "languages_url": "https://api.github.com/repos/coolsnowwolf/lede/languages",
       "created_at": "2017-09-06T07:39:03Z",
-      "updated_at": "2024-12-19T16:39:28Z",
+      "updated_at": "2024-12-20T20:26:21Z",
       "git_url": "git://github.com/coolsnowwolf/lede.git",
       "ssh_url": "git@github.com:coolsnowwolf/lede.git",
       "clone_url": "https://github.com/coolsnowwolf/lede.git",
       "homepage": "",
-      "stargazers_count": 30031,
-      "watchers_count": 30031,
+      "stargazers_count": 30035,
+      "watchers_count": 30035,
       "language": "C",
       "topics": [
         "lede",
@@ -3162,7 +3162,7 @@
       "owner": {
         "login": "HandBrake",
         "id": 627269,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/627269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcwMDAsIm5iZiI6MTczNDY1NTgwMCwicGF0aCI6Ii91LzYyNzI2OSJ9.CxYaRTOmEx2VjmToy-5Y9sqFaB-gEE74v99Y5YOwjTY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/627269?v=4",
         "url": "https://api.github.com/users/HandBrake",
         "html_url": "https://github.com/HandBrake"
       },
@@ -3171,13 +3171,13 @@
       "url": "https://api.github.com/repos/HandBrake/HandBrake",
       "languages_url": "https://api.github.com/repos/HandBrake/HandBrake/languages",
       "created_at": "2015-08-22T16:32:28Z",
-      "updated_at": "2024-12-20T00:45:42Z",
+      "updated_at": "2024-12-21T00:30:06Z",
       "git_url": "git://github.com/HandBrake/HandBrake.git",
       "ssh_url": "git@github.com:HandBrake/HandBrake.git",
       "clone_url": "https://github.com/HandBrake/HandBrake.git",
       "homepage": "https://handbrake.fr",
-      "stargazers_count": 18234,
-      "watchers_count": 18234,
+      "stargazers_count": 18244,
+      "watchers_count": 18244,
       "language": "C",
       "topics": [
         "gplv2",
@@ -3195,7 +3195,7 @@
       "owner": {
         "login": "lencx",
         "id": 16164244,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/16164244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY4MjAsIm5iZiI6MTczNDY1NTYyMCwicGF0aCI6Ii91LzE2MTY0MjQ0In0.FkLHkWygHF6Pxn3YZJHZlkOcz4h77MPCF2zQaJpw0RQ&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/16164244?v=4",
         "url": "https://api.github.com/users/lencx",
         "html_url": "https://github.com/lencx"
       },
@@ -3204,13 +3204,13 @@
       "url": "https://api.github.com/repos/lencx/ChatGPT",
       "languages_url": "https://api.github.com/repos/lencx/ChatGPT/languages",
       "created_at": "2022-12-07T09:43:02Z",
-      "updated_at": "2024-12-19T23:45:28Z",
+      "updated_at": "2024-12-21T00:19:20Z",
       "git_url": "git://github.com/lencx/ChatGPT.git",
       "ssh_url": "git@github.com:lencx/ChatGPT.git",
       "clone_url": "https://github.com/lencx/ChatGPT.git",
       "homepage": "https://nofwl.com",
-      "stargazers_count": 53259,
-      "watchers_count": 53259,
+      "stargazers_count": 53258,
+      "watchers_count": 53258,
       "language": "Rust",
       "topics": [
         "ai",
@@ -3238,7 +3238,7 @@
       "owner": {
         "login": "tw93",
         "id": 8736212,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/8736212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTc0MjAsIm5iZiI6MTczNDY1NjIyMCwicGF0aCI6Ii91Lzg3MzYyMTIifQ.0G-iNtghkhgI6dSIgOwfzfBycrtqn_U0gUBT4Zo1TsY&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/8736212?v=4",
         "url": "https://api.github.com/users/tw93",
         "html_url": "https://github.com/tw93"
       },
@@ -3247,13 +3247,13 @@
       "url": "https://api.github.com/repos/tw93/Pake",
       "languages_url": "https://api.github.com/repos/tw93/Pake/languages",
       "created_at": "2022-10-14T09:32:57Z",
-      "updated_at": "2024-12-20T00:22:13Z",
+      "updated_at": "2024-12-20T14:32:46Z",
       "git_url": "git://github.com/tw93/Pake.git",
       "ssh_url": "git@github.com:tw93/Pake.git",
       "clone_url": "https://github.com/tw93/Pake.git",
       "homepage": "",
-      "stargazers_count": 33615,
-      "watchers_count": 33615,
+      "stargazers_count": 33625,
+      "watchers_count": 33625,
       "language": "Rust",
       "topics": [
         "chatgpt",
@@ -3287,7 +3287,7 @@
       "owner": {
         "login": "pycaret",
         "id": 58118658,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/58118658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY2NDAsIm5iZiI6MTczNDY1NTQ0MCwicGF0aCI6Ii91LzU4MTE4NjU4In0.FwjmqD4pBJpOI_BggpLKBUpyXFBEatxTP47-QTjdp_g&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/58118658?v=4",
         "url": "https://api.github.com/users/pycaret",
         "html_url": "https://github.com/pycaret"
       },
@@ -3296,13 +3296,13 @@
       "url": "https://api.github.com/repos/pycaret/pycaret",
       "languages_url": "https://api.github.com/repos/pycaret/pycaret/languages",
       "created_at": "2019-11-23T18:40:48Z",
-      "updated_at": "2024-12-19T12:23:50Z",
+      "updated_at": "2024-12-20T08:42:37Z",
       "git_url": "git://github.com/pycaret/pycaret.git",
       "ssh_url": "git@github.com:pycaret/pycaret.git",
       "clone_url": "https://github.com/pycaret/pycaret.git",
       "homepage": "https://www.pycaret.org",
-      "stargazers_count": 9033,
-      "watchers_count": 9033,
+      "stargazers_count": 9034,
+      "watchers_count": 9034,
       "language": "Jupyter Notebook",
       "topics": [
         "anomaly-detection",
@@ -3329,7 +3329,7 @@
       "owner": {
         "login": "kenzok8",
         "id": 39034242,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/39034242?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcxMjAsIm5iZiI6MTczNDY1NTkyMCwicGF0aCI6Ii91LzM5MDM0MjQyIn0.tV9ZfIqm-EX81vT7kyCbUzUEW0PRXZPxX_DTnMwlMpU&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/39034242?v=4",
         "url": "https://api.github.com/users/kenzok8",
         "html_url": "https://github.com/kenzok8"
       },
@@ -3338,13 +3338,13 @@
       "url": "https://api.github.com/repos/kenzok8/openwrt-packages",
       "languages_url": "https://api.github.com/repos/kenzok8/openwrt-packages/languages",
       "created_at": "2020-03-10T11:03:47Z",
-      "updated_at": "2024-12-19T12:43:12Z",
+      "updated_at": "2024-12-20T11:04:56Z",
       "git_url": "git://github.com/kenzok8/openwrt-packages.git",
       "ssh_url": "git@github.com:kenzok8/openwrt-packages.git",
       "clone_url": "https://github.com/kenzok8/openwrt-packages.git",
       "homepage": "https://op.dllkids.xyz",
-      "stargazers_count": 6581,
-      "watchers_count": 6581,
+      "stargazers_count": 6582,
+      "watchers_count": 6582,
       "language": "HTML",
       "topics": [
         "alist",
@@ -3377,7 +3377,7 @@
       "owner": {
         "login": "ilovexjp",
         "id": 77482175,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/77482175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTcyNDAsIm5iZiI6MTczNDY1NjA0MCwicGF0aCI6Ii91Lzc3NDgyMTc1In0.Ur9KfgWHbgb1gYrF8SjnAtvoXsGae0BZTTTZMGC_lxA&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/77482175?v=4",
         "url": "https://api.github.com/users/ilovexjp",
         "html_url": "https://github.com/ilovexjp"
       },
@@ -3406,7 +3406,7 @@
       "owner": {
         "login": "p0deje",
         "id": 665846,
-        "avatar_url": "https://private-avatars.githubusercontent.com/u/665846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTY3NjAsIm5iZiI6MTczNDY1NTU2MCwicGF0aCI6Ii91LzY2NTg0NiJ9.OP9NQFoyaxsulQDKS03y12RVUDU1egC3ZSfEr_l6Zyc&v=4",
+        "avatar_url": "https://avatars.githubusercontent.com/u/665846?v=4",
         "url": "https://api.github.com/users/p0deje",
         "html_url": "https://github.com/p0deje"
       },
@@ -3415,13 +3415,13 @@
       "url": "https://api.github.com/repos/p0deje/Maccy",
       "languages_url": "https://api.github.com/repos/p0deje/Maccy/languages",
       "created_at": "2018-01-31T05:01:53Z",
-      "updated_at": "2024-12-19T23:53:55Z",
+      "updated_at": "2024-12-20T20:40:56Z",
       "git_url": "git://github.com/p0deje/Maccy.git",
       "ssh_url": "git@github.com:p0deje/Maccy.git",
       "clone_url": "https://github.com/p0deje/Maccy.git",
       "homepage": "https://maccy.app",
-      "stargazers_count": 13353,
-      "watchers_count": 13353,
+      "stargazers_count": 13366,
+      "watchers_count": 13366,
       "language": "Swift",
       "topics": [
         "clipboard-manager",
