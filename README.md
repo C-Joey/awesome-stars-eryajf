@@ -25,12 +25,12 @@
 *   [CSS](#css)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
-*   [Shell](#shell)
 *   [Ruby](#ruby)
 *   [Java](#java)
 *   [Go](#go)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Kotlin](#kotlin)
+*   [Shell](#shell)
 *   [Batchfile](#batchfile)
 *   [Perl](#perl)
 *   [Lua](#lua)
@@ -174,6 +174,8 @@
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
+*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
+
 *   [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 
 *   [cg-dot/vertexai-cf-workers](https://github.com/cg-dot/vertexai-cf-workers) - Vertex AI (GCP) Claude Proxy via Cloudflare workers
@@ -195,18 +197,6 @@
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-
-## Shell
-
-*   [nikkinikki-org/OpenWrt-nikki](https://github.com/nikkinikki-org/OpenWrt-nikki) - Transparent Proxy with Mihomo on OpenWrt.
-
-*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
-
-*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
-
-*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
-
-*   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
 
 ## Ruby
 
@@ -241,6 +231,16 @@
 *   [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
 
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+
+## Shell
+
+*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
+
+*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
+
+*   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
+
+*   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
 
 ## Batchfile
 
