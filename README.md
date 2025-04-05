@@ -40,13 +40,12 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Swift](#swift)
+*   [ASL](#asl)
 *   [Thanks](#thanks)
 
 ## miscellaneous
 
 *   [C-Joey/awesome-stars-eryajf](https://github.com/C-Joey/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [zgimszhd61/cloudflare-quickstart](https://github.com/zgimszhd61/cloudflare-quickstart) - 一个关于cloudflare的简明入门教程
 
 *   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 
@@ -68,6 +67,8 @@
 
 *   [haohaoh4/078-Vue-resumeVue](https://github.com/haohaoh4/078-Vue-resumeVue) - 个人简历模板vue版本，本人为Java后端开发工程师、全栈工程师，欢迎HR来撩，也欢迎小伙伴start本项目~~~~
 
+*   [Jonezhen/CSBook](https://github.com/Jonezhen/CSBook) -
+
 ## Python
 
 *   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
@@ -77,8 +78,6 @@
 *   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件
 
 *   [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
-
-*   [yixiu001/serv00-login](https://github.com/yixiu001/serv00-login) - 同时支持serv00与ct8自动化批量保号，每3天自动登录一次面板，并且发送消息到Telegram
 
 *   [malinkang/toggl2notion](https://github.com/malinkang/toggl2notion) -
 
@@ -196,7 +195,7 @@
 
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 
-*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+*   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
 
 ## Ruby
 
@@ -242,6 +241,8 @@
 
 *   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
 
+*   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
+
 ## Batchfile
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
@@ -280,11 +281,13 @@
 
 *   [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 
-*   [ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index) - 健康码模拟 - 索引
-
 ## Swift
 
 *   [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
+
+## ASL
+
+*   [bdragonh/T480S-BIGSUR-EFI](https://github.com/bdragonh/T480S-BIGSUR-EFI) - OC EFI folder for T480s running Bigsur Monterey
 
 ## Thanks
 
