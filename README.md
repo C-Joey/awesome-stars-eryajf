@@ -87,8 +87,6 @@
 
 *   [CosmosShadow/gptpdf](https://github.com/CosmosShadow/gptpdf) - Using GPT to parse PDF
 
-*   [barry-far/V2ray-Configs](https://github.com/barry-far/V2ray-Configs) - 🛰️✨ Free V2ray Configs , Updating Every 10 minutes.
-
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - :triangular\_flag\_on\_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 
 *   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -241,7 +239,9 @@
 
 *   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
 
-*   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 固件
+*   [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 
 ## Batchfile
 
