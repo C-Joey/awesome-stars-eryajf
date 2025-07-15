@@ -60,8 +60,6 @@
 
 *   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
 
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
 *   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 
 *   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
@@ -236,6 +234,8 @@
 
 *   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
 *   [yeahwu/v2ray-wss](https://github.com/yeahwu/v2ray-wss) - A proxy script with multiple protocols.
 
 *   [cutelua/mtg-dist](https://github.com/cutelua/mtg-dist) - Oneline distbute and install script for mtg
@@ -246,7 +246,7 @@
 
 ## Perl
 
-*   [sbwml/halflife-list](https://github.com/sbwml/halflife-list) - ABP/ublock 广告过滤规则（每周一早上9点更新）
+*   [sbwml/halflife-list](https://github.com/sbwml/halflife-list) - ABP/ublock 广告过滤规则（每周一早上 8 点更新）
 
 ## Lua
 
