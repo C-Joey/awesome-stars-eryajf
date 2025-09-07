@@ -187,8 +187,6 @@
 
 *   [Rello/analytics](https://github.com/Rello/analytics) - Analytics - Open source data warehouse and reporting for Nextcloud
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
 
 *   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
@@ -266,6 +264,8 @@
 ## Rust
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
 
 ## Jupyter Notebook
 
