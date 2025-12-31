@@ -25,7 +25,6 @@
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
-*   [Java](#java)
 *   [Go](#go)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Kotlin](#kotlin)
@@ -36,6 +35,7 @@
 *   [C](#c-1)
 *   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Java](#java)
 *   [Swift](#swift)
 *   [ASL](#asl)
 *   [Thanks](#thanks)
@@ -172,6 +172,8 @@
 
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+
 *   [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 
 *   [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
@@ -197,12 +199,6 @@
 ## Ruby
 
 *   [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Rime输入法安装脚本，让一切更轻松。Make using Rime easy.
-
-## Java
-
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 
 ## Go
 
@@ -271,6 +267,10 @@
 ## Jupyter Notebook
 
 *   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
+
+## Java
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
 
 ## Swift
 
