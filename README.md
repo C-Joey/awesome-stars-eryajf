@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -33,12 +34,19 @@
 *   [Lua](#lua)
 *   [Vue](#vue)
 *   [C](#c-1)
-*   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Java](#java)
 *   [Swift](#swift)
 *   [ASL](#asl)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## Shell
 
@@ -81,8 +89,6 @@
 *   [Rello/analytics](https://github.com/Rello/analytics) - Analytics - Open source data warehouse and reporting for Nextcloud
 
 *   [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
-
-*   [thedavidweng/CoverView-CN](https://github.com/thedavidweng/CoverView-CN) - 🛠 CoverView 汉化版 - 快速为您的博客文章创建精美的封面图片。
 
 ## miscellaneous
 
@@ -257,12 +263,6 @@
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-
-## Rust
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 ## Jupyter Notebook
 
