@@ -40,6 +40,8 @@
 
 ## JavaScript
 
+*   [C-Joey/fastYTB](https://github.com/C-Joey/fastYTB) - 快速分析 YouTube 视频的 AI 智能助手，chrome 插件
+
 *   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
 *   [yeahhe365/gemini-nexus](https://github.com/yeahhe365/gemini-nexus) - Gemini Nexus 是一款深度集成 Google Gemini 能力的 Chrome 扩展程序。它不仅仅是一个侧边栏插件，而是通过注入式的悬浮工具栏、强大的图像 AI 处理以及前沿的浏览器控制协议 (MCP)，将 AI 的触角伸向网页浏览的每一个交互细节。
@@ -195,8 +197,6 @@
 *   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 
 *   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
-
-*   [haohaoh4/078-Vue-resumeVue](https://github.com/haohaoh4/078-Vue-resumeVue) - 个人简历模板vue版本，本人为Java后端开发工程师、全栈工程师，欢迎HR来撩，也欢迎小伙伴start本项目~~~~
 
 ## CSS
 
