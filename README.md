@@ -40,6 +40,8 @@
 
 ## TypeScript
 
+*   [urzeye/ophel](https://github.com/urzeye/ophel) - Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+
 *   [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 
 *   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
@@ -123,8 +125,6 @@
 *   [ehForwarderBot/efb-wechat-slave](https://github.com/ehForwarderBot/efb-wechat-slave) - A channel for EH Forwarder Bot.
 
 *   [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
-
-*   [marcusvolz/strava\_py](https://github.com/marcusvolz/strava_py) - Create artistic visualisations with your exercise data (Python version)
 
 ## Vue
 
