@@ -34,10 +34,11 @@
 *   [Perl](#perl)
 *   [Lua](#lua)
 *   [C](#c-1)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
 
 ## TypeScript
+
+*   [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 
 *   [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 
@@ -266,10 +267,6 @@
 *   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
 *   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
-
-## Jupyter Notebook
-
-*   [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 
 ## Thanks
 
