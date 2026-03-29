@@ -18,9 +18,9 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
@@ -37,31 +37,9 @@
 *   [C](#c-1)
 *   [Thanks](#thanks)
 
-## Rust
-
-*   [lbjlaq/Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) - Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE.
-
-*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
-
-*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-## Shell
-
-*   [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
-
-*   [oyz8/nz](https://github.com/oyz8/nz) - 在 Hugging Face 部署哪吒面板 V1 版（带自动备份功能）
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
-
-*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
 ## TypeScript
+
+*   [glincker/thesvg](https://github.com/glincker/thesvg) - 5,600+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 
 *   [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) - Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 
@@ -108,6 +86,30 @@
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) -
 
 *   [bokeh/bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from  Python
+
+## Rust
+
+*   [lbjlaq/Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) - Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE.
+
+*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Browser action engine for AI agents. 10× faster, resilient by design.
+
+*   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## Shell
+
+*   [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
+
+*   [oyz8/nz](https://github.com/oyz8/nz) - 在 Hugging Face 部署哪吒面板 V1 版（带自动备份功能）
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
+
+*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## Python
 
@@ -178,8 +180,6 @@
 *   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
 
 *   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-*   [AUK9527/Are-u-ok](https://github.com/AUK9527/Are-u-ok) -
 
 ## Go
 
