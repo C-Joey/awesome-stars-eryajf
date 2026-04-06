@@ -18,13 +18,13 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
-*   [Go](#go)
-*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [C#](#c)
@@ -34,8 +34,49 @@
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
 *   [Lua](#lua)
-*   [C](#c-1)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+
+*   [dongshuyan/CPA-Dashboard](https://github.com/dongshuyan/CPA-Dashboard) - Dashboard For CLIProxyAPI
+
+## Go
+
+*   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~
+
+*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
+
+*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
+
+## miscellaneous
+
+*   [AZeC4/TelegramGroup](https://github.com/AZeC4/TelegramGroup) - 2026最新悄咪咪收集的10000+个Telegram群合集，附全网最有趣好用的机器人BOT🤖【dianbaodaohang.com】
+
+*   [C-Joey/cloudflare\_temp\_email](https://github.com/C-Joey/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
+
+*   [C-Joey/awesome-stars-eryajf](https://github.com/C-Joey/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [bpc-clone/bpc\_chrome\_support](https://github.com/bpc-clone/bpc_chrome_support) -
+
+*   [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
+
+*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 
 ## TypeScript
 
@@ -109,7 +150,7 @@
 
 *   [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
-*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 
 *   [ideasman42/nerd-dictation](https://github.com/ideasman42/nerd-dictation) - Simple, hackable offline speech to text - using the VOSK-API.
 
@@ -141,8 +182,6 @@
 
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
 ## Shell
 
 *   [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
@@ -156,42 +195,6 @@
 *   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-## miscellaneous
-
-*   [C-Joey/cloudflare\_temp\_email](https://github.com/C-Joey/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
-
-*   [C-Joey/awesome-stars-eryajf](https://github.com/C-Joey/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [bpc-clone/bpc\_chrome\_support](https://github.com/bpc-clone/bpc_chrome_support) -
-
-*   [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [674316/AVDC](https://github.com/674316/AVDC) - 日本电影元数据刮削器，配合kodi,emby,plex等本地媒体管理工具使用。可批量抓取，也可单个抓取。可抓取子目录下视频，多集视频（-cd1/-cd2）,带字幕作品（-c., -C.）。批量添加emby演员头像。
-
-*   [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
-
-## Go
-
-*   [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥
-
-*   [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
-
-## HTML
-
-*   [dongshuyan/CPA-Dashboard](https://github.com/dongshuyan/CPA-Dashboard) - Dashboard For CLIProxyAPI
 
 ## JavaScript
 
@@ -226,8 +229,6 @@
 ## Vue
 
 *   [ldx123000/Hydrogen-Music](https://github.com/ldx123000/Hydrogen-Music) - 第三方网易云播放器 Hydrogen Music 复活版：修复登录/歌曲下载/音乐视频/云盘功能，新增私人漫游/桌面歌词/评论区/深色模式功能
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 
 ## C\#
 
@@ -266,10 +267,6 @@
 ## Lua
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-## C
-
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
 ## Thanks
 
