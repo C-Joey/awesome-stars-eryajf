@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [HTML](#html)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -36,23 +36,9 @@
 *   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## Shell
-
-*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-*   [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
-
-*   [oyz8/nz](https://github.com/oyz8/nz) - 在 Hugging Face 部署哪吒面板 V1 版（带自动备份功能）
-
-*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
-
-*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
-
-*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
 ## TypeScript
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 *   [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -
 
@@ -103,6 +89,22 @@
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) -
+
+## Shell
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+*   [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
+
+*   [oyz8/nz](https://github.com/oyz8/nz) - 在 Hugging Face 部署哪吒面板 V1 版（带自动备份功能）
+
+*   [frankiejun/serv00-play](https://github.com/frankiejun/serv00-play) - serv00/hostuno 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针|面板 等, 自动化部署、批量保号、进程防杀、消息推送
+
+*   [bcseputetto/Are-u-ok](https://github.com/bcseputetto/Are-u-ok) - KoolCenter iStore .run Packages
+
+*   [jgraph/docker-drawio](https://github.com/jgraph/docker-drawio) - Dockerized draw.io based on whichever is the most secure image at the time.
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## HTML
 
@@ -190,13 +192,11 @@
 
 *   [NewFuture/DDNS](https://github.com/NewFuture/DDNS) - 🌐自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)
 
-*   [tatsu-lab/stanford\_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-
 ## Rust
 
 *   [lbjlaq/Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) - Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE.
 
-*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Actionbook provides up-to-date action manuals, so your AI agent operates any website 10x faster and more reliably.
+*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Let your AI agent uses your browser. Actionbook makes it actually work.
 
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
