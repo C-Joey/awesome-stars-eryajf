@@ -114,7 +114,7 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) -
+*   [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.
 
 *   [zzsting88/relayAPI](https://github.com/zzsting88/relayAPI) - AI API中转站推荐与评测
 
@@ -180,7 +180,7 @@
 
 ## HTML
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP, Tun)
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun)
 
 *   [dongshuyan/CPA-Dashboard](https://github.com/dongshuyan/CPA-Dashboard) - Dashboard For CLIProxyAPI
 
