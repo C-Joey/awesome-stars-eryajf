@@ -224,7 +224,7 @@
 
 *   [lbjlaq/Antigravity-Tools-LS](https://github.com/lbjlaq/Antigravity-Tools-LS) - Antigravity-Tools-LS is a local proxy bridge system designed specifically for the Antigravity IDE.
 
-*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Let your AI agent uses your browser. Actionbook makes it actually work.
+*   [actionbook/actionbook](https://github.com/actionbook/actionbook) - Let your AI agent use your browser. Actionbook makes it actually work.
 
 *   [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 
