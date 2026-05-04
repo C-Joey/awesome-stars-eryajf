@@ -32,10 +32,11 @@
 *   [Ruby](#ruby)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Kotlin](#kotlin)
-*   [Perl](#perl)
 *   [Thanks](#thanks)
 
 ## Shell
+
+*   [0xdabiaoge/singbox-lite](https://github.com/0xdabiaoge/singbox-lite) -
 
 *   [ophub/amlogic-s9xxx-openwrt](https://github.com/ophub/amlogic-s9xxx-openwrt) - Supports running OpenWrt on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
 
@@ -260,10 +261,6 @@
 ## Kotlin
 
 *   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
-
-## Perl
-
-*   [sbwml/halflife-list](https://github.com/sbwml/halflife-list) - ABP/ublock 广告过滤规则（每周一早上 8 点更新）
 
 ## Thanks
 
