@@ -32,6 +32,7 @@
 *   [Ruby](#ruby)
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Kotlin](#kotlin)
+*   [Perl](#perl)
 *   [Thanks](#thanks)
 
 ## Shell
@@ -166,8 +167,6 @@
 
 *   [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-*   [C-Joey/openclaw\_backup](https://github.com/C-Joey/openclaw_backup) - openclaw 备份
-
 *   [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 
 *   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
@@ -261,6 +260,10 @@
 ## Kotlin
 
 *   [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
+
+## Perl
+
+*   [sbwml/halflife-list](https://github.com/sbwml/halflife-list) - ABP/ublock 广告过滤规则（每周一早上 8 点更新）
 
 ## Thanks
 
