@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Shell](#shell)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -34,6 +35,10 @@
 *   [Kotlin](#kotlin)
 *   [Perl](#perl)
 *   [Thanks](#thanks)
+
+## PHP
+
+*   [Bubka/2FAuth](https://github.com/Bubka/2FAuth) - A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes
 
 ## Shell
 
@@ -126,8 +131,6 @@
 *   [NyxTides/SimpleAuthFlow](https://github.com/NyxTides/SimpleAuthFlow) - A streamlined Chrome extension for the ChatGPT OAuth flow
 
 *   [dreamwing/clawbridge](https://github.com/dreamwing/clawbridge) - ClawBridge is the OpenClaw Mobile Dashboard. Monitor agent's real-time thoughts, actions, track token costs, and manage tasks from anywhere using your pocket-sized Mission Control.
-
-*   [alireza0/x-ui](https://github.com/alireza0/x-ui) - xray panel supporting multi-protocol multi-user expire day & traffic (Vmess & Vless & Trojan & Shadowsocks)
 
 *   [C-Joey/fastYTB](https://github.com/C-Joey/fastYTB) - 快速分析 YouTube 视频的 AI 智能助手，chrome 插件
 
