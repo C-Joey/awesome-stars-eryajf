@@ -129,7 +129,7 @@
 
 *   [zzsting88/relayAPI](https://github.com/zzsting88/relayAPI) - AI API中转站推荐与评测
 
-*   [glincker/thesvg](https://github.com/glincker/thesvg) - 5,880+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+*   [glincker/thesvg](https://github.com/glincker/thesvg) - 6,035+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 
 *   [TianyiDataScience/openclaw-control-center](https://github.com/TianyiDataScience/openclaw-control-center) - Turn OpenClaw from a black box into a local control center you can see, trust, and control.
 
